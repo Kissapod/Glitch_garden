@@ -1,0 +1,6344 @@
+fileFormatVersion: 2
+guid: a40e12e453013744585ade795d036408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -742153562101851608
+    second: pugalo idle_0
+  - first:
+      213: 2508975283404641798
+    second: pugalo idle_1
+  - first:
+      213: -5332359006883488903
+    second: pugalo idle_2
+  - first:
+      213: 8679569374447302395
+    second: pugalo idle_3
+  - first:
+      213: -5243590188923743381
+    second: pugalo idle_4
+  - first:
+      213: 9036086745295429024
+    second: pugalo idle_5
+  - first:
+      213: -5297624974289245424
+    second: pugalo idle_6
+  - first:
+      213: -6597830690777105346
+    second: pugalo idle_7
+  - first:
+      213: -8556269199318547355
+    second: pugalo idle_8
+  - first:
+      213: -8920685101224891840
+    second: pugalo idle_9
+  - first:
+      213: 3903078195192458618
+    second: pugalo idle_10
+  - first:
+      213: 3791236228408261329
+    second: pugalo idle_11
+  - first:
+      213: 3257996239679517245
+    second: pugalo idle_12
+  - first:
+      213: -1665197409824133433
+    second: pugalo idle_13
+  - first:
+      213: 4467997749793399640
+    second: pugalo idle_14
+  - first:
+      213: -4412246692426912807
+    second: pugalo idle_15
+  - first:
+      213: 7645430238807194265
+    second: pugalo idle_16
+  - first:
+      213: 5221408916682164234
+    second: pugalo idle_17
+  - first:
+      213: 5170223743373425734
+    second: pugalo idle_18
+  - first:
+      213: -7903320024394747052
+    second: pugalo idle_19
+  - first:
+      213: 1003124716590451459
+    second: pugalo idle_20
+  - first:
+      213: 1114230518478973908
+    second: pugalo idle_21
+  - first:
+      213: 7438462224223577630
+    second: pugalo idle_22
+  - first:
+      213: 4211848051492283763
+    second: pugalo idle_23
+  - first:
+      213: -2567261463006782452
+    second: pugalo idle_24
+  - first:
+      213: -1024371635558139036
+    second: pugalo idle_25
+  - first:
+      213: -5817111101115672893
+    second: pugalo idle_26
+  - first:
+      213: 727225438334072335
+    second: pugalo idle_27
+  - first:
+      213: -8449154001171620614
+    second: pugalo idle_28
+  - first:
+      213: 4473044235283897343
+    second: pugalo idle_29
+  - first:
+      213: 3272919021716312670
+    second: pugalo idle_30
+  - first:
+      213: -4232043769432773144
+    second: pugalo idle_31
+  - first:
+      213: -2429339416346654081
+    second: pugalo idle_32
+  - first:
+      213: -2280191607904216874
+    second: pugalo idle_33
+  - first:
+      213: -6882602584292581518
+    second: pugalo idle_34
+  - first:
+      213: -2815414752399698025
+    second: pugalo idle_35
+  - first:
+      213: 9191171389820354497
+    second: pugalo idle_36
+  - first:
+      213: -8132658341278504256
+    second: pugalo idle_37
+  - first:
+      213: -8863533446670088038
+    second: pugalo idle_38
+  - first:
+      213: 8653338044544501480
+    second: pugalo idle_39
+  - first:
+      213: -8510911597234113456
+    second: pugalo idle_40
+  - first:
+      213: -4612666729307504584
+    second: pugalo idle_41
+  - first:
+      213: 308972911021507437
+    second: pugalo idle_42
+  - first:
+      213: 6396457887233443576
+    second: pugalo idle_43
+  - first:
+      213: 8659942198273633290
+    second: pugalo idle_44
+  - first:
+      213: 3644065609666429111
+    second: pugalo idle_45
+  - first:
+      213: 7886337666177472134
+    second: pugalo idle_46
+  - first:
+      213: -2339789779014715416
+    second: pugalo idle_47
+  - first:
+      213: -8892348609633414871
+    second: pugalo idle_48
+  - first:
+      213: -7511057715249134341
+    second: pugalo idle_49
+  - first:
+      213: -3966193967702271712
+    second: pugalo idle_50
+  - first:
+      213: -6289021473278702457
+    second: pugalo idle_51
+  - first:
+      213: -56570167406559400
+    second: pugalo idle_52
+  - first:
+      213: -4211736376389344965
+    second: pugalo idle_53
+  - first:
+      213: 7522959920549229776
+    second: pugalo idle_54
+  - first:
+      213: 6331335447926053304
+    second: pugalo idle_55
+  - first:
+      213: -699085191372461238
+    second: pugalo idle_56
+  - first:
+      213: -8892064712282557461
+    second: pugalo idle_57
+  - first:
+      213: 2796088751095611470
+    second: pugalo idle_58
+  - first:
+      213: 8027602479544473645
+    second: pugalo idle_59
+  - first:
+      213: -8111837681792979804
+    second: pugalo idle_60
+  - first:
+      213: 3470202419134147158
+    second: pugalo idle_61
+  - first:
+      213: -4058245380527196672
+    second: pugalo idle_62
+  - first:
+      213: -2519611892112841167
+    second: pugalo idle_63
+  - first:
+      213: -2320469103777424110
+    second: pugalo idle_64
+  - first:
+      213: 6284439958574408489
+    second: pugalo idle_65
+  - first:
+      213: -4617272272759579990
+    second: pugalo idle_66
+  - first:
+      213: 239189369867002769
+    second: pugalo idle_67
+  - first:
+      213: -199422291572626796
+    second: pugalo idle_68
+  - first:
+      213: 8369003269640939487
+    second: pugalo idle_69
+  - first:
+      213: 312935836026208200
+    second: pugalo idle_70
+  - first:
+      213: 2342624715474203445
+    second: pugalo idle_71
+  - first:
+      213: -5301929476325107495
+    second: pugalo idle_72
+  - first:
+      213: 5556807545023371218
+    second: pugalo idle_73
+  - first:
+      213: -705839131037884083
+    second: pugalo idle_74
+  - first:
+      213: 2512540354969257932
+    second: pugalo idle_75
+  - first:
+      213: 6568104129758129720
+    second: pugalo idle_76
+  - first:
+      213: -1931962871795351908
+    second: pugalo idle_77
+  - first:
+      213: 6407710644768286575
+    second: pugalo idle_78
+  - first:
+      213: -1427875339665849225
+    second: pugalo idle_79
+  - first:
+      213: 8497694803282285495
+    second: pugalo idle_80
+  - first:
+      213: 3444515725110369728
+    second: pugalo idle_81
+  - first:
+      213: -5198948610692514390
+    second: pugalo idle_82
+  - first:
+      213: 7880598281082669311
+    second: pugalo idle_83
+  - first:
+      213: 2338623494631295032
+    second: pugalo idle_84
+  - first:
+      213: -2618935528920612711
+    second: pugalo idle_85
+  - first:
+      213: -545137935443002206
+    second: pugalo idle_86
+  - first:
+      213: 6648035013929869062
+    second: pugalo idle_87
+  - first:
+      213: -36737954497144223
+    second: pugalo idle_88
+  - first:
+      213: 1484486563968325805
+    second: pugalo idle_89
+  - first:
+      213: 6671466186302152318
+    second: pugalo idle_90
+  - first:
+      213: 8301465059174164639
+    second: pugalo idle_91
+  - first:
+      213: 5890663618764132423
+    second: pugalo idle_92
+  - first:
+      213: 5420390848697420799
+    second: pugalo idle_93
+  - first:
+      213: 3694718048958096122
+    second: pugalo idle_94
+  - first:
+      213: -6279795111118688202
+    second: pugalo idle_95
+  - first:
+      213: -2620262606414254355
+    second: pugalo idle_96
+  - first:
+      213: -6191882119197540524
+    second: pugalo idle_97
+  - first:
+      213: -3074858846244443655
+    second: pugalo idle_98
+  - first:
+      213: 490272219843308836
+    second: pugalo idle_99
+  - first:
+      213: -1439221722059562257
+    second: pugalo idle_100
+  - first:
+      213: 9053561313004660191
+    second: pugalo idle_101
+  - first:
+      213: -6847371363096680502
+    second: pugalo idle_102
+  - first:
+      213: -8735089171838476816
+    second: pugalo idle_103
+  - first:
+      213: -1214821874708136738
+    second: pugalo idle_104
+  - first:
+      213: -2038195655726666993
+    second: pugalo idle_105
+  - first:
+      213: -4538990419406278498
+    second: pugalo idle_106
+  - first:
+      213: 7377410614663035204
+    second: pugalo idle_107
+  - first:
+      213: -5663527773132839196
+    second: pugalo idle_108
+  - first:
+      213: -4112033333414171642
+    second: pugalo idle_109
+  - first:
+      213: 6821503991468966176
+    second: pugalo idle_110
+  - first:
+      213: -7482857261164694938
+    second: pugalo idle_111
+  - first:
+      213: -8423956327197985472
+    second: pugalo idle_112
+  - first:
+      213: 4734138935639174490
+    second: pugalo idle_113
+  - first:
+      213: 7317075507856360343
+    second: pugalo idle_114
+  - first:
+      213: 321640343485761593
+    second: pugalo idle_115
+  - first:
+      213: 7555295520808980270
+    second: pugalo idle_116
+  - first:
+      213: 4209629585263314423
+    second: pugalo idle_117
+  - first:
+      213: -5740759012511174399
+    second: pugalo idle_118
+  - first:
+      213: 3760047342570120977
+    second: pugalo idle_119
+  - first:
+      213: -4039599124480400989
+    second: pugalo idle_120
+  - first:
+      213: 1489035547034050876
+    second: pugalo idle_121
+  - first:
+      213: 2058169874198025953
+    second: pugalo idle_122
+  - first:
+      213: -447472231351228722
+    second: pugalo idle_123
+  - first:
+      213: 3140315610173536030
+    second: pugalo idle_124
+  - first:
+      213: 7002980721149191347
+    second: pugalo idle_125
+  - first:
+      213: -9061531456989489532
+    second: pugalo idle_126
+  - first:
+      213: 1473584580067750351
+    second: pugalo idle_127
+  - first:
+      213: 8429845119057969867
+    second: pugalo idle_128
+  - first:
+      213: 3947785186829341111
+    second: pugalo idle_129
+  - first:
+      213: -5389330966973178558
+    second: pugalo idle_130
+  - first:
+      213: -7634142707805040917
+    second: pugalo idle_131
+  - first:
+      213: 6965471806945892277
+    second: pugalo idle_132
+  - first:
+      213: -2886360317768328392
+    second: pugalo idle_133
+  - first:
+      213: -8828958192524987626
+    second: pugalo idle_134
+  - first:
+      213: -8767181882306960431
+    second: pugalo idle_135
+  - first:
+      213: -1425843603154468834
+    second: pugalo idle_136
+  - first:
+      213: -1106969775765360809
+    second: pugalo idle_137
+  - first:
+      213: 6964088475264595020
+    second: pugalo idle_138
+  - first:
+      213: 314767480664562180
+    second: pugalo idle_139
+  - first:
+      213: -8641677706238277838
+    second: pugalo idle_140
+  - first:
+      213: 5829955716306187852
+    second: pugalo idle_141
+  - first:
+      213: 3804798994888134750
+    second: pugalo idle_142
+  - first:
+      213: 4904608721572006599
+    second: pugalo idle_143
+  - first:
+      213: -3483508100959233202
+    second: pugalo idle_144
+  - first:
+      213: 1439669284114801178
+    second: pugalo idle_145
+  - first:
+      213: 8337596143637247885
+    second: pugalo idle_146
+  - first:
+      213: 3844773289968587851
+    second: pugalo idle_147
+  - first:
+      213: 5051445295342892163
+    second: pugalo idle_148
+  - first:
+      213: 2116822038443578656
+    second: pugalo idle_149
+  - first:
+      213: -3463174338026384056
+    second: pugalo idle_150
+  - first:
+      213: -1435692625708100195
+    second: pugalo idle_151
+  - first:
+      213: -6399221870947700270
+    second: pugalo idle_152
+  - first:
+      213: -5372131515663349266
+    second: pugalo idle_153
+  - first:
+      213: 1216810597998221784
+    second: pugalo idle_154
+  - first:
+      213: 8048643445267347357
+    second: pugalo idle_155
+  - first:
+      213: -8967441035972969436
+    second: pugalo idle_156
+  - first:
+      213: -263976820302205734
+    second: pugalo idle_157
+  - first:
+      213: 696165920629503299
+    second: pugalo idle_158
+  - first:
+      213: -229052320853816467
+    second: pugalo idle_159
+  - first:
+      213: 2622292536302704631
+    second: pugalo idle_160
+  - first:
+      213: -7197508115025875040
+    second: pugalo idle_161
+  - first:
+      213: 4342032571416271216
+    second: pugalo idle_162
+  - first:
+      213: 4389089814008943439
+    second: pugalo idle_163
+  - first:
+      213: -4042567174076255362
+    second: pugalo idle_164
+  - first:
+      213: 8047000739839451987
+    second: pugalo idle_165
+  - first:
+      213: -2074716284582160901
+    second: pugalo idle_166
+  - first:
+      213: 1111358434835053492
+    second: pugalo idle_167
+  - first:
+      213: 3926090517103001038
+    second: pugalo idle_168
+  - first:
+      213: 651795329421371417
+    second: pugalo idle_169
+  - first:
+      213: -3021467134572482369
+    second: pugalo idle_170
+  - first:
+      213: 8387685194153825699
+    second: pugalo idle_171
+  - first:
+      213: 6453023661127093953
+    second: pugalo idle_172
+  - first:
+      213: 427157304811296503
+    second: pugalo idle_173
+  - first:
+      213: 8222913351373905367
+    second: pugalo idle_174
+  - first:
+      213: -2698997161721201022
+    second: pugalo idle_175
+  - first:
+      213: 3103700770243470384
+    second: pugalo idle_176
+  - first:
+      213: -8088590169118076516
+    second: pugalo idle_177
+  - first:
+      213: 2319117055795410253
+    second: pugalo idle_178
+  - first:
+      213: 5709846608298464883
+    second: pugalo idle_179
+  - first:
+      213: -7924415838977985183
+    second: pugalo idle_180
+  - first:
+      213: -1554604956612074422
+    second: pugalo idle_181
+  - first:
+      213: 2821825533183035405
+    second: pugalo idle_182
+  - first:
+      213: -8688912152013174773
+    second: pugalo idle_183
+  - first:
+      213: 2002586044057846712
+    second: pugalo idle_184
+  - first:
+      213: -8316537721953368747
+    second: pugalo idle_185
+  - first:
+      213: -482951760993661575
+    second: pugalo idle_186
+  - first:
+      213: 6349436621489334812
+    second: pugalo idle_187
+  - first:
+      213: 4459530114800588482
+    second: pugalo idle_188
+  - first:
+      213: -5217679612956643531
+    second: pugalo idle_189
+  - first:
+      213: -8667386221467462147
+    second: pugalo idle_190
+  - first:
+      213: 7310129709263809810
+    second: pugalo idle_191
+  - first:
+      213: 1926647735250341722
+    second: pugalo idle_192
+  - first:
+      213: 4803667224215960421
+    second: pugalo idle_193
+  - first:
+      213: 4748798602218773220
+    second: pugalo idle_194
+  - first:
+      213: -8213162085711566114
+    second: pugalo idle_195
+  - first:
+      213: 720597878089079652
+    second: pugalo idle_196
+  - first:
+      213: -6731844150238177254
+    second: pugalo idle_197
+  - first:
+      213: -254635021333711514
+    second: pugalo idle_198
+  - first:
+      213: -3891292218100015684
+    second: pugalo idle_199
+  - first:
+      213: -5644609189632248831
+    second: pugalo idle_200
+  - first:
+      213: -1802730540098694189
+    second: pugalo idle_201
+  - first:
+      213: 8827498086883586614
+    second: pugalo idle_202
+  - first:
+      213: 8578767942716566918
+    second: pugalo idle_203
+  - first:
+      213: 1573305505615398943
+    second: pugalo idle_204
+  - first:
+      213: 4537243193793186886
+    second: pugalo idle_205
+  - first:
+      213: -5288518543787179296
+    second: pugalo idle_206
+  - first:
+      213: -6121970862131223289
+    second: pugalo idle_207
+  - first:
+      213: 3989868422171235832
+    second: pugalo idle_208
+  - first:
+      213: 889022551325058670
+    second: pugalo idle_209
+  - first:
+      213: -5522127427808318534
+    second: pugalo idle_210
+  - first:
+      213: -2902270233532427231
+    second: pugalo idle_211
+  - first:
+      213: 5511204116114873397
+    second: pugalo idle_212
+  - first:
+      213: 473547985757850957
+    second: pugalo idle_213
+  - first:
+      213: 3443599473518894755
+    second: pugalo idle_214
+  - first:
+      213: -1462856935535552613
+    second: pugalo idle_215
+  - first:
+      213: -5995436985637129871
+    second: pugalo idle_216
+  - first:
+      213: 3421071990448068303
+    second: pugalo idle_217
+  - first:
+      213: -6334017251752058325
+    second: pugalo idle_218
+  - first:
+      213: 8970033129713652762
+    second: pugalo idle_219
+  - first:
+      213: 7307755933063035605
+    second: pugalo idle_220
+  - first:
+      213: -731229156423987293
+    second: pugalo idle_221
+  - first:
+      213: -330255420044812186
+    second: pugalo idle_222
+  - first:
+      213: 8691574088659729876
+    second: pugalo idle_223
+  - first:
+      213: -7535547915769243824
+    second: pugalo idle_224
+  - first:
+      213: 8294962543579283339
+    second: pugalo idle_225
+  - first:
+      213: -4230630272804767506
+    second: pugalo idle_226
+  - first:
+      213: -5868945900566143600
+    second: pugalo idle_227
+  - first:
+      213: 4428357821557703657
+    second: pugalo idle_228
+  - first:
+      213: -1478226940359663967
+    second: pugalo idle_229
+  - first:
+      213: -8734701055774948864
+    second: pugalo idle_230
+  - first:
+      213: 3647074552510753505
+    second: pugalo idle_231
+  - first:
+      213: -1314339054850197860
+    second: pugalo idle_232
+  - first:
+      213: -885419067415717727
+    second: pugalo idle_233
+  - first:
+      213: -6060759385633450233
+    second: pugalo idle_234
+  - first:
+      213: -2219319709541337882
+    second: pugalo idle_235
+  - first:
+      213: -5465020120295833842
+    second: pugalo idle_236
+  - first:
+      213: 8093111309153833945
+    second: pugalo idle_237
+  - first:
+      213: -7185267374947708131
+    second: pugalo idle_238
+  - first:
+      213: -4588356074871741140
+    second: pugalo idle_239
+  - first:
+      213: -6025335174465670069
+    second: pugalo idle_240
+  - first:
+      213: 4927448219143966283
+    second: pugalo idle_241
+  - first:
+      213: 4608575851983878420
+    second: pugalo idle_242
+  - first:
+      213: 370706028014477077
+    second: pugalo idle_243
+  - first:
+      213: 8615071895110724534
+    second: pugalo idle_244
+  - first:
+      213: 8596889947308952179
+    second: pugalo idle_245
+  - first:
+      213: 6495988164208466181
+    second: pugalo idle_246
+  - first:
+      213: -8592828482872865331
+    second: pugalo idle_247
+  - first:
+      213: -4168064306560784552
+    second: pugalo idle_248
+  - first:
+      213: -4533936867286134228
+    second: pugalo idle_249
+  - first:
+      213: 5689208519715598287
+    second: pugalo idle_250
+  - first:
+      213: -5440685632873326448
+    second: pugalo idle_251
+  - first:
+      213: 7444246210785091267
+    second: pugalo idle_252
+  - first:
+      213: -5282409323640416208
+    second: pugalo idle_253
+  - first:
+      213: 8400232951304713888
+    second: pugalo idle_254
+  - first:
+      213: 7698138529493256326
+    second: pugalo idle_255
+  - first:
+      213: -2784424870013475263
+    second: pugalo idle_256
+  - first:
+      213: -4005824867008810906
+    second: pugalo idle_257
+  - first:
+      213: 984817122879060384
+    second: pugalo idle_258
+  - first:
+      213: 2645322261850966722
+    second: pugalo idle_259
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pugalo idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad022744753b5f0800000000000000
+      internalID: -742153562101851608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60691952abba1d220800000000000000
+      internalID: 2508975283404641798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bdadb3cb7aff5b0800000000000000
+      internalID: -5332359006883488903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67a471c56047870800000000000000
+      internalID: 8679569374447302395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631a7141860b37b0800000000000000
+      internalID: -5243590188923743381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad13f40501a66d70800000000000000
+      internalID: 9036086745295429024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b6046672e0b76b0800000000000000
+      internalID: -5297624974289245424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_7
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7f0c81fbcf64a0800000000000000
+      internalID: -6597830690777105346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564800c0f76024980800000000000000
+      internalID: -8556269199318547355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_9
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aee5c0a2c533480800000000000000
+      internalID: -8920685101224891840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_10
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de40b60f48a2630800000000000000
+      internalID: 3903078195192458618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_11
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabddd434d2d9430800000000000000
+      internalID: 3791236228408261329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_12
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f7a1815ab63d20800000000000000
+      internalID: 3257996239679517245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_13
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce288247c704e8e0800000000000000
+      internalID: -1665197409824133433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_14
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8532eade744810e30800000000000000
+      internalID: 4467997749793399640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_15
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6084a20d84c2c0800000000000000
+      internalID: -4412246692426912807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_16
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af1238b460a1a60800000000000000
+      internalID: 7645430238807194265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_17
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c5e9debb267840800000000000000
+      internalID: 5221408916682164234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_18
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c30110a1350c740800000000000000
+      internalID: 5170223743373425734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_19
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45338b7bf44c15290800000000000000
+      internalID: -7903320024394747052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_20
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc9cd6d90dbed00800000000000000
+      internalID: 1003124716590451459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_21
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2178
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba6dbc0ca867f00800000000000000
+      internalID: 1114230518478973908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1622067bf9ba3760800000000000000
+      internalID: 7438462224223577630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756e1dcc7d737a30800000000000000
+      internalID: 4211848051492283763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5ee32d414f5cd0800000000000000
+      internalID: -2567261463006782452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3290cc63b8c1f0800000000000000
+      internalID: -1024371635558139036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d40f1648754fa0800000000000000
+      internalID: -5817111101115672893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b783eeaf971a00800000000000000
+      internalID: 727225438334072335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc589393339eba80800000000000000
+      internalID: -8449154001171620614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_29
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb94b46802731e30800000000000000
+      internalID: 4473044235283897343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_30
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521504728ebb6d20800000000000000
+      internalID: 3272919021716312670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_31
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eded013d92c445c0800000000000000
+      internalID: -4232043769432773144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_32
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8dc90ca0494ed0800000000000000
+      internalID: -2429339416346654081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_33
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8da0740d12b50e0800000000000000
+      internalID: -2280191607904216874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_34
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1e094a651c70a0800000000000000
+      internalID: -6882602584292581518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_35
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79752db0333ade8d0800000000000000
+      internalID: -2815414752399698025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_36
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb9ff9ea99d8f70800000000000000
+      internalID: 9191171389820354497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_37
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2a78c35ef22f80800000000000000
+      internalID: -8132658341278504256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_38
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988f609a476ef480800000000000000
+      internalID: -8863533446670088038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_39
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c27aaa15d61870800000000000000
+      internalID: 8653338044544501480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_40
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054bb1cbefa23e980800000000000000
+      internalID: -8510911597234113456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_41
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300d547c048cffb0800000000000000
+      internalID: -4612666729307504584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_42
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c7aeb931b94400800000000000000
+      internalID: 308972911021507437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_43
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1980
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68b4dfe88c4c850800000000000000
+      internalID: 6396457887233443576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce3870c8b4e2870800000000000000
+      internalID: 8659942198273633290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0826a6d52529230800000000000000
+      internalID: 3644065609666429111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869a43e256e17d60800000000000000
+      internalID: 7886337666177472134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fcbcb795678fd0800000000000000
+      internalID: -2339789779014715416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219cdf9d08089480800000000000000
+      internalID: -8892348609633414871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_49
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44e13adcc53c790800000000000000
+      internalID: -7511057715249134341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_50
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291fc4a99f35f8c0800000000000000
+      internalID: -3966193967702271712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_51
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4b6c6a48e8b8a0800000000000000
+      internalID: -6289021473278702457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_52
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff8d28bb5073ff0800000000000000
+      internalID: -56570167406559400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_53
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e8b59418ec85c0800000000000000
+      internalID: -4211736376389344965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_54
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d476db703ce66860800000000000000
+      internalID: 7522959920549229776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_55
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b998778b0c6dd750800000000000000
+      internalID: 6331335447926053304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_56
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b228ce8b95c46f0800000000000000
+      internalID: -699085191372461238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_57
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bc90a14a099480800000000000000
+      internalID: -8892064712282557461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_58
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400581a7e3bdc620800000000000000
+      internalID: 2796088751095611470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_59
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281b4f4ce5c76f60800000000000000
+      internalID: 8027602479544473645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_60
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace9155b96fc6f80800000000000000
+      internalID: -8111837681792979804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_61
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a213bd6b2a82030800000000000000
+      internalID: 3470202419134147158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_62
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0067e42f3573ea7c0800000000000000
+      internalID: -4058245380527196672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_63
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a3c6655a880dd0800000000000000
+      internalID: -2519611892112841167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_64
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd31df4a90ccfd0800000000000000
+      internalID: -2320469103777424110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_65
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1782
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923291f88d0d63750800000000000000
+      internalID: 6284439958574408489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa97eec4572cefb0800000000000000
+      internalID: -4617272272759579990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e8f0f675c15300800000000000000
+      internalID: 239189369867002769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_68
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae48e7b728b3df0800000000000000
+      internalID: -199422291572626796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_69
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e703022ca42470800000000000000
+      internalID: 8369003269640939487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_70
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff4df1c75c75400800000000000000
+      internalID: 312935836026208200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_71
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f3e754cca28020800000000000000
+      internalID: 2342624715474203445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_72
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8187b6b33cb66b0800000000000000
+      internalID: -5301929476325107495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_73
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7145e550fbd1d40800000000000000
+      internalID: 5556807545023371218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_74
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41aaedcc0b5436f0800000000000000
+      internalID: -705839131037884083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_75
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c6cd04265ed220800000000000000
+      internalID: 2512540354969257932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_76
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e620e18e7962b50800000000000000
+      internalID: 6568104129758129720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_77
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef46b010a4035e0800000000000000
+      internalID: -1931962871795351908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_78
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6727e4c1e2cce850800000000000000
+      internalID: 6407710644768286575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_79
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744dab91fa2f2ce0800000000000000
+      internalID: -1427875339665849225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_80
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d25f9660ede570800000000000000
+      internalID: 8497694803282285495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_81
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd537a5dc06dcf20800000000000000
+      internalID: 3444515725110369728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_82
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7926a8cf99d7b0800000000000000
+      internalID: -5198948610692514390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_83
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88c7922628d5d60800000000000000
+      internalID: 7880598281082669311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_84
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83881e48da5747020800000000000000
+      internalID: 2338623494631295032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_85
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990890d130ca7abd0800000000000000
+      internalID: -2618935528920612711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_86
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac745c9fe74f68f0800000000000000
+      internalID: -545137935443002206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_87
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1584
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f16a35f90924c50800000000000000
+      internalID: 6648035013929869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5c68660b7d7ff0800000000000000
+      internalID: -36737954497144223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_89
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da81c2f2aa4f99410800000000000000
+      internalID: 1484486563968325805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_90
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed195462fc59c50800000000000000
+      internalID: 6671466186302152318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_91
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98a46ffc7ab43370800000000000000
+      internalID: 8301465059174164639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_92
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d0c7e957dfb150800000000000000
+      internalID: 5890663618764132423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_93
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb436822c8193b40800000000000000
+      internalID: 5420390848697420799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_94
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22f557d76464330800000000000000
+      internalID: 3694718048958096122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_95
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63039834e9fa9d8a0800000000000000
+      internalID: -6279795111118688202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_96
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee607eca05f2abd0800000000000000
+      internalID: -2620262606414254355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_97
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3322c404021aa0800000000000000
+      internalID: -6191882119197540524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_98
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e12fab28e355d0800000000000000
+      internalID: -3074858846244443655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_99
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da0038cfbcdc600800000000000000
+      internalID: 490272219843308836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_100
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22d97187bd60ce0800000000000000
+      internalID: -1439221722059562257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_101
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5acdddb06b4ad70800000000000000
+      internalID: 9053561313004660191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_102
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a071360049f0a0800000000000000
+      internalID: -6847371363096680502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_103
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd43fbdaab6c680800000000000000
+      internalID: -8735089171838476816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_104
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb5acf0f5142fe0800000000000000
+      internalID: -1214821874708136738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_105
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0beaa599dfd6b3e0800000000000000
+      internalID: -2038195655726666993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_106
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90336c13444201c0800000000000000
+      internalID: -4538990419406278498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_107
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bf29edd3d16660800000000000000
+      internalID: 7377410614663035204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_108
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6abda3f7b1761b0800000000000000
+      internalID: -5663527773132839196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_109
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1386
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6841487f1fe6c0800000000000000
+      internalID: -4112033333414171642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ca650db9daae50800000000000000
+      internalID: 6821503991468966176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_111
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662735387fc872890800000000000000
+      internalID: -7482857261164694938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_112
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b5f93a58181b80800000000000000
+      internalID: -8423956327197985472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_113
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d6e18874a03b140800000000000000
+      internalID: 4734138935639174490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_114
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934d7828697b8560800000000000000
+      internalID: 7317075507856360343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_115
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93847e23032b67400800000000000000
+      internalID: 321640343485761593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_116
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f4bea1f3dc9d860800000000000000
+      internalID: 7555295520808980270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_117
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54891edcb9b6a30800000000000000
+      internalID: 4209629585263314423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_118
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101362e081ab450b0800000000000000
+      internalID: -5740759012511174399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_119
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1172b80f22f5e2430800000000000000
+      internalID: 3760047342570120977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_120
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ed5ebff570f7c0800000000000000
+      internalID: -4039599124480400989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_121
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e4e6d0fd1aa410800000000000000
+      internalID: 1489035547034050876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_122
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6dbfe8896109c10800000000000000
+      internalID: 2058169874198025953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_123
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6657b50624ac9f0800000000000000
+      internalID: -447472231351228722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_124
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f10bc864a49b20800000000000000
+      internalID: 3140315610173536030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_125
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a10dccd59f2160800000000000000
+      internalID: 7002980721149191347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_126
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4861d116629fe3280800000000000000
+      internalID: -9061531456989489532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_127
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17e614e59337410800000000000000
+      internalID: 1473584580067750351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_128
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c209f873dcf470800000000000000
+      internalID: 8429845119057969867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_129
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1138e06b959c630800000000000000
+      internalID: 3947785186829341111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_130
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1d881a004535b0800000000000000
+      internalID: -5389330966973178558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_131
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1188
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee44a897a31e0690800000000000000
+      internalID: -7634142707805040917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7120a24b35aa060800000000000000
+      internalID: 6965471806945892277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b92a5659691f7d0800000000000000
+      internalID: -2886360317768328392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_134
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f5cd3d4d397580800000000000000
+      internalID: -8828958192524987626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_135
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36adf4786b45680800000000000000
+      internalID: -8767181882306960431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_136
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1007b02cc2663ce0800000000000000
+      internalID: -1425843603154468834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_137
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f696a9ad043a0f0800000000000000
+      internalID: -1106969775765360809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_138
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b988229965a060800000000000000
+      internalID: 6964088475264595020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_139
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1bdf1b574e5400800000000000000
+      internalID: 314767480664562180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_140
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237414869e7921880800000000000000
+      internalID: -8641677706238277838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_141
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4630b6e5d928e050800000000000000
+      internalID: 5829955716306187852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_142
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501214f68c5dc430800000000000000
+      internalID: 3804798994888134750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_143
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca059385aba01440800000000000000
+      internalID: 4904608721572006599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_144
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b112ea6d718afc0800000000000000
+      internalID: -3483508100959233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_145
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1224b1169bbaf310800000000000000
+      internalID: 1439669284114801178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_146
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873a26a48715b370800000000000000
+      internalID: 8337596143637247885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_147
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44dc7ecfe06b5530800000000000000
+      internalID: 3844773289968587851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_148
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843b3f7bb65a1640800000000000000
+      internalID: 5051445295342892163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_149
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d526bd66706d10800000000000000
+      internalID: 2116822038443578656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_150
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84550bac94550ffc0800000000000000
+      internalID: -3463174338026384056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_151
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95550ed925631ce0800000000000000
+      internalID: -1435692625708100195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_152
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17047ec956137a0800000000000000
+      internalID: -6399221870947700270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_153
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 990
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9843a69da5275b0800000000000000
+      internalID: -5372131515663349266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d95d9cbacaf2e010800000000000000
+      internalID: 1216810597998221784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_155
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bfe6e19682bf60800000000000000
+      internalID: 8048643445267347357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_156
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cf19aa3ef3d8380800000000000000
+      internalID: -8967441035972969436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_157
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc23f40b7a265cf0800000000000000
+      internalID: -263976820302205734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_158
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345bad3673749a900800000000000000
+      internalID: 696165920629503299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_159
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8784b02e32dcf0800000000000000
+      internalID: -229052320853816467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_160
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71b731b21446420800000000000000
+      internalID: 2622292536302704631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_161
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af24efd0805d1c90800000000000000
+      internalID: -7197508115025875040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_162
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079517e5e9ff14c30800000000000000
+      internalID: 4342032571416271216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_163
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d9437eed29ec30800000000000000
+      internalID: 4389089814008943439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_164
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b788d29ae5e7c0800000000000000
+      internalID: -4042567174076255362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_165
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353af6db980bcaf60800000000000000
+      internalID: 8047000739839451987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_166
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf513cf08802533e0800000000000000
+      internalID: -2074716284582160901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_167
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3a76bb965c6f00800000000000000
+      internalID: 1111358434835053492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_168
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd34f326864c7630800000000000000
+      internalID: 3926090517103001038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_169
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186b641664ab0900800000000000000
+      internalID: 651795329421371417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_170
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb03a4746a79116d0800000000000000
+      internalID: -3021467134572482369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_171
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a597558e3b076470800000000000000
+      internalID: 8387685194153825699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_172
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecba884debd8950800000000000000
+      internalID: 6453023661127093953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_173
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69d783e419de500800000000000000
+      internalID: 427157304811296503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_174
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd557f4028ad1270800000000000000
+      internalID: 8222913351373905367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_175
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 792
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef1dd916c3b8ad0800000000000000
+      internalID: -2698997161721201022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e77b086f821b20800000000000000
+      internalID: 3103700770243470384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_177
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91100ca81e8fbf80800000000000000
+      internalID: -8088590169118076516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_178
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453c3fcca82f2020800000000000000
+      internalID: 2319117055795410253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_179
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3765999fc337d3f40800000000000000
+      internalID: 5709846608298464883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_180
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165fc31a7c1d60290800000000000000
+      internalID: -7924415838977985183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_181
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446313570fec6ae0800000000000000
+      internalID: -1554604956612074422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_182
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08808b2f53292720800000000000000
+      internalID: 2821825533183035405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_183
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b080eaefe68ca6780800000000000000
+      internalID: -8688912152013174773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_184
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3093c956d9acb10800000000000000
+      internalID: 2002586044057846712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_185
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55545d93109b59c80800000000000000
+      internalID: -8316537721953368747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_186
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc252aee53c49f0800000000000000
+      internalID: -482951760993661575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_187
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a6abb67fabd1850800000000000000
+      internalID: 6349436621489334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_188
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c698d5030f63ed30800000000000000
+      internalID: 4459530114800588482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_189
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53febe559041797b0800000000000000
+      internalID: -5217679612956643531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_190
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51152472247b780800000000000000
+      internalID: -8667386221467462147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_191
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de2b66d3cc27560800000000000000
+      internalID: 7310129709263809810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_192
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f48ea48e3dcba10800000000000000
+      internalID: 1926647735250341722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_193
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3496b3ed0aa240800000000000000
+      internalID: 4803667224215960421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_194
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1f132b2f17e140800000000000000
+      internalID: 4748798602218773220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_195
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa476299cf40e80800000000000000
+      internalID: -8213162085711566114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_196
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b5665c3f3100a00800000000000000
+      internalID: 720597878089079652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_197
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 594
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1813c5896fa392a0800000000000000
+      internalID: -6731844150238177254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b7061cca577cf0800000000000000
+      internalID: -254635021333711514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_199
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd18e6385a5ff9c0800000000000000
+      internalID: -3891292218100015684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_200
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104701439d15aa1b0800000000000000
+      internalID: -5644609189632248831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_201
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35ba3002a6bf6e0800000000000000
+      internalID: -1802730540098694189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_202
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f22c6db2918a70800000000000000
+      internalID: 8827498086883586614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_203
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d212cddf7ed0770800000000000000
+      internalID: 8578767942716566918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_204
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184f59850185d510800000000000000
+      internalID: 1573305505615398943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_205
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0a9935a687fe30800000000000000
+      internalID: 4537243193793186886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_206
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2cf7977686b96b0800000000000000
+      internalID: -5288518543787179296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_207
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705606dbfe36a0ba0800000000000000
+      internalID: -6121970862131223289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_208
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59014d03cde5730800000000000000
+      internalID: 3989868422171235832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_209
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66aa09dc41765c00800000000000000
+      internalID: 889022551325058670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_210
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2b05ac567d53b0800000000000000
+      internalID: -5522127427808318534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_211
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241c18799019b7d0800000000000000
+      internalID: -2902270233532427231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_212
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c92b9a1fabb7c40800000000000000
+      internalID: 5511204116114873397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_213
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc2335261629600800000000000000
+      internalID: 473547985757850957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_214
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed0d7e97f1acf20800000000000000
+      internalID: 3443599473518894755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_215
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97df202e53e2bbe0800000000000000
+      internalID: -1462856935535552613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_216
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713cd5a3ddebcca0800000000000000
+      internalID: -5995436985637129871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_217
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc612b589d61a7f20800000000000000
+      internalID: 3421071990448068303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_218
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226f1c5edc0918a0800000000000000
+      internalID: -6334017251752058325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_219
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1451103b95fb7c70800000000000000
+      internalID: 8970033129713652762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab97f8d4d5a6560800000000000000
+      internalID: 7307755933063035605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_221
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af80f9d4f62ad5f0800000000000000
+      internalID: -731229156423987293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_222
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e41bf172ba6bf0800000000000000
+      internalID: -330255420044812186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_223
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7d8d659cae9870800000000000000
+      internalID: 8691574088659729876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_224
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05793ac781b5c6790800000000000000
+      internalID: -7535547915769243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_225
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb63b1c70ad1370800000000000000
+      internalID: 8294962543579283339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_226
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee835758e28c945c0800000000000000
+      internalID: -4230630272804767506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_227
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d15c66cc05d8ea0800000000000000
+      internalID: -5868945900566143600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_228
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3054ce9ffa47d30800000000000000
+      internalID: 4428357821557703657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_229
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae13720e684c7be0800000000000000
+      internalID: -1478226940359663967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_230
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020e4f0bab18c680800000000000000
+      internalID: -8734701055774948864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_231
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea25c38bf20d9230800000000000000
+      internalID: 3647074552510753505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_232
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963b31e79782cde0800000000000000
+      internalID: -1314339054850197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_233
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a81451ac0c56b3f0800000000000000
+      internalID: -885419067415717727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_234
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071436337bd3eba0800000000000000
+      internalID: -6060759385633450233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_235
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f3cd8b746331e0800000000000000
+      internalID: -2219319709541337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_236
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f776fc7295824b0800000000000000
+      internalID: -5465020120295833842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_237
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d39fc54bd1805070800000000000000
+      internalID: 8093111309153833945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_238
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13d904446dc84c90800000000000000
+      internalID: -7185267374947708131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_239
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a346c572e250c0800000000000000
+      internalID: -4588356074871741140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_240
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44be491595b16ca0800000000000000
+      internalID: -6025335174465670069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_241
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e053f6c00d16440800000000000000
+      internalID: 4927448219143966283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41931f1f153f4ff30800000000000000
+      internalID: 4608575851983878420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_243
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f16eb1b23052500800000000000000
+      internalID: 370706028014477077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_244
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba6867e32ee8770800000000000000
+      internalID: 8615071895110724534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_245
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0a7adbd94e4770800000000000000
+      internalID: 8596889947308952179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_246
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50999c071d2662a50800000000000000
+      internalID: 6495988164208466181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_247
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd0186850420c880800000000000000
+      internalID: -8592828482872865331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_248
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a576b89f0826c0800000000000000
+      internalID: -4168064306560784552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_249
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22dc57e0783411c0800000000000000
+      internalID: -4533936867286134228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_250
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf26c6810124fe40800000000000000
+      internalID: 5689208519715598287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_251
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098930e2e3dce74b0800000000000000
+      internalID: -5440685632873326448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_252
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9466cc764f4760800000000000000
+      internalID: 7444246210785091267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_253
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038933225bc11b6b0800000000000000
+      internalID: -5282409323640416208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_254
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67c05ec5f939470800000000000000
+      internalID: 8400232951304713888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_255
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888132c43845da60800000000000000
+      internalID: 7698138529493256326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_256
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146651f455cbb59d0800000000000000
+      internalID: -2784424870013475263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_257
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607389d1837868c0800000000000000
+      internalID: -4005824867008810906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_258
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bde994f5caad00800000000000000
+      internalID: 984817122879060384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugalo idle_259
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4f06e49216b420800000000000000
+      internalID: 2645322261850966722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

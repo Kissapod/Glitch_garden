@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 91e946c0d5817cf45a55e424a29ba7c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -784413622974962819
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_0
+  - first:
+      213: 4367344847938166603
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_1
+  - first:
+      213: -273008993784786728
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_2
+  - first:
+      213: -1591920119695961012
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_3
+  - first:
+      213: -5793429959319108346
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_4
+  - first:
+      213: -5834918178329110859
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_5
+  - first:
+      213: 5521428956428786819
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_6
+  - first:
+      213: 1582023290662207662
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_7
+  - first:
+      213: 5917213546555928804
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_8
+  - first:
+      213: 4295927320521886254
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_9
+  - first:
+      213: -2048924766231983355
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_10
+  - first:
+      213: 3104845556006744954
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_11
+  - first:
+      213: -8031635349478690123
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_12
+  - first:
+      213: -7554320028549137186
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_13
+  - first:
+      213: -7810274106768611241
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_14
+  - first:
+      213: -501052965788300920
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_15
+  - first:
+      213: 7036307443773240150
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_16
+  - first:
+      213: 6511533889946633322
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_17
+  - first:
+      213: 7307369654108887814
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_18
+  - first:
+      213: 6323182514406921495
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_19
+  - first:
+      213: -6390752435744674207
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_20
+  - first:
+      213: -4707432608241346789
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_21
+  - first:
+      213: -5577258329489611310
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_22
+  - first:
+      213: 6796399498433064616
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_23
+  - first:
+      213: 7441300709555466524
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_24
+  - first:
+      213: -2057773880344547471
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_25
+  - first:
+      213: -3700985094736973295
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_26
+  - first:
+      213: 3673391715245618502
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_27
+  - first:
+      213: -4774199475403807454
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_28
+  - first:
+      213: -7364767499144402976
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_29
+  - first:
+      213: 9068879123403182481
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_30
+  - first:
+      213: 805937257824179300
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_31
+  - first:
+      213: 7565931142277739260
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_32
+  - first:
+      213: -258709111659772462
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_33
+  - first:
+      213: -1770258088108751305
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_34
+  - first:
+      213: -2122948462048734236
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_35
+  - first:
+      213: -3557130721689835142
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_36
+  - first:
+      213: -8065592431997897139
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_37
+  - first:
+      213: 2126386075808947052
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_38
+  - first:
+      213: -1950894899509812703
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_39
+  - first:
+      213: 8641640310989738738
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_40
+  - first:
+      213: 7924964307483565373
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_41
+  - first:
+      213: 3518659488558327682
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_42
+  - first:
+      213: 5308554821085001141
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_43
+  - first:
+      213: -2107050442510261357
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_44
+  - first:
+      213: 842727669995844215
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_45
+  - first:
+      213: 2247700628121848566
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_46
+  - first:
+      213: -5423958322190012015
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_47
+  - first:
+      213: -6166443622913072966
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_48
+  - first:
+      213: 158220878120859736
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_49
+  - first:
+      213: 24896641631386611
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_50
+  - first:
+      213: -8019643689937218020
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_51
+  - first:
+      213: 8583712447165386871
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_52
+  - first:
+      213: -6949762494836185493
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_53
+  - first:
+      213: 7746548917066164290
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_54
+  - first:
+      213: -1104460920894152727
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_55
+  - first:
+      213: 5662178382625706530
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_56
+  - first:
+      213: -5865429757833883695
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_57
+  - first:
+      213: -1839272812306233873
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_58
+  - first:
+      213: 1944397420562078264
+    second: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a99547f33d15f0800000000000000
+      internalID: -784413622974962819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f9cf0000deb9c30800000000000000
+      internalID: 4367344847938166603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d098f044c3163cf0800000000000000
+      internalID: -273008993784786728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4499b2e51d58e9e0800000000000000
+      internalID: -1591920119695961012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cdab952a999fa0800000000000000
+      internalID: -5793429959319108346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6593fd4d4360fa0800000000000000
+      internalID: -5834918178329110859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5e70d16e00ac40800000000000000
+      internalID: 5521428956428786819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0c05a0dc974f510800000000000000
+      internalID: 1582023290662207662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0789eae5a2e1250800000000000000
+      internalID: 5917213546555928804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4a9023233e9b30800000000000000
+      internalID: 4295927320521886254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b0e31e7c1c093e0800000000000000
+      internalID: -2048924766231983355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737b304590a61b20800000000000000
+      internalID: 3104845556006744954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23adcf336e98090800000000000000
+      internalID: -8031635349478690123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb5b265f9a92790800000000000000
+      internalID: -7554320028549137186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75820ab94155c9390800000000000000
+      internalID: -7810274106768611241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88948887bf6eb09f0800000000000000
+      internalID: -501052965788300920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537a84175cf5a160800000000000000
+      internalID: 7036307443773240150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64cf25c29d9d5a50800000000000000
+      internalID: 6511533889946633322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b11abfbfdf86560800000000000000
+      internalID: 7307369654108887814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 66
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159f25cef470c750800000000000000
+      internalID: 6323182514406921495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee9f3f48c7f47a0800000000000000
+      internalID: -6390752435744674207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171faddbf6dbaeb0800000000000000
+      internalID: -4707432608241346789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ee2259199992b0800000000000000
+      internalID: -5577258329489611310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeeebfb559a15e50800000000000000
+      internalID: 6796399498433064616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117ae3d19fc44760800000000000000
+      internalID: 7441300709555466524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6cf1fe815173e0800000000000000
+      internalID: -2057773880344547471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ff2d3aa573acc0800000000000000
+      internalID: -3700985094736973295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f3147d428af230800000000000000
+      internalID: 3673391715245618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22523b53fd2aebdb0800000000000000
+      internalID: -4774199475403807454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e720daf61bc990800000000000000
+      internalID: -7364767499144402976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191176583812bdd70800000000000000
+      internalID: 9068879123403182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464dcdb7aa34f2b00800000000000000
+      internalID: 805937257824179300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2b782b9469ff860800000000000000
+      internalID: 7565931142277739260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5cc530f61e86cf0800000000000000
+      internalID: -258709111659772462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360489e5a7ce67e0800000000000000
+      internalID: -1770258088108751305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39f132f95c982e0800000000000000
+      internalID: -2122948462048734236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796c02847882aec0800000000000000
+      internalID: -3557130721689835142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46bfab9a62411090800000000000000
+      internalID: -8065592431997897139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_38
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bddefaed0728d10800000000000000
+      internalID: 2126386075808947052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 33
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a898dc670de4e0800000000000000
+      internalID: -1950894899509812703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f25d35d3164de770800000000000000
+      internalID: 8641640310989738738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1535ac012bfd60800000000000000
+      internalID: 7924964307483565373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a315892ac4d030800000000000000
+      internalID: 3518659488558327682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5757ddb76cba940800000000000000
+      internalID: 5308554821085001141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a85249c042c2e0800000000000000
+      internalID: -2107050442510261357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772be74d958f1bb00800000000000000
+      internalID: 842727669995844215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa00acffcf613f10800000000000000
+      internalID: 2247700628121848566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913751b4aa3ab4b0800000000000000
+      internalID: -5423958322190012015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab02bc832346c6aa0800000000000000
+      internalID: -6166443622913072966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b174ec0d123200800000000000000
+      internalID: 158220878120859736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf9881d53785000800000000000000
+      internalID: 24896641631386611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16d61ccd8084b090800000000000000
+      internalID: -8019643689937218020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77054630ef87f1770800000000000000
+      internalID: 8583712447165386871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e4f515db7d8f90800000000000000
+      internalID: -6949762494836185493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486ae47235418b60800000000000000
+      internalID: 7746548917066164290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_55
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9dc5e4aa2ca0f0800000000000000
+      internalID: -1104460920894152727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221d4f4d39149e40800000000000000
+      internalID: 5662178382625706530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4e4d26bec99ea0800000000000000
+      internalID: -5865429757833883695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe504714f179976e0800000000000000
+      internalID: -1839272812306233873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_groddlestreetspirit__x1_race_png_1354839830_59
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad9c2f623ebfa10800000000000000
+      internalID: 1944397420562078264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

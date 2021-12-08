@@ -1,0 +1,3440 @@
+fileFormatVersion: 2
+guid: a1b5998ef9af35d48833cb7c934276c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 210704702857509274
+    second: attacking_0
+  - first:
+      213: 7467001538722481690
+    second: attacking_1
+  - first:
+      213: -9118675687842726345
+    second: attacking_2
+  - first:
+      213: -4401908728460256907
+    second: attacking_3
+  - first:
+      213: -2559348636315826340
+    second: attacking_4
+  - first:
+      213: -7854623405326919840
+    second: attacking_5
+  - first:
+      213: -3255058754827376486
+    second: attacking_6
+  - first:
+      213: 4774364955286074200
+    second: attacking_7
+  - first:
+      213: 3496524092526253487
+    second: attacking_8
+  - first:
+      213: 3275866309459176758
+    second: attacking_9
+  - first:
+      213: 5928742637116941630
+    second: attacking_10
+  - first:
+      213: 4741326518408471436
+    second: attacking_11
+  - first:
+      213: -2630918475818767111
+    second: attacking_12
+  - first:
+      213: 6108015033372377101
+    second: attacking_13
+  - first:
+      213: 5940297006928111438
+    second: attacking_14
+  - first:
+      213: 2101950084280895763
+    second: attacking_15
+  - first:
+      213: 2859949427963982194
+    second: attacking_16
+  - first:
+      213: -2996842144864444464
+    second: attacking_17
+  - first:
+      213: 7282405925457959108
+    second: attacking_18
+  - first:
+      213: 5991687236930923490
+    second: attacking_19
+  - first:
+      213: 7281927668747393681
+    second: attacking_20
+  - first:
+      213: 7993985056648431839
+    second: attacking_21
+  - first:
+      213: 8681711926002742744
+    second: attacking_22
+  - first:
+      213: 890059322251569793
+    second: attacking_23
+  - first:
+      213: -943588589771449334
+    second: attacking_24
+  - first:
+      213: 5178779453495954647
+    second: attacking_25
+  - first:
+      213: -2885038999195276475
+    second: attacking_26
+  - first:
+      213: 4784009821500019770
+    second: attacking_27
+  - first:
+      213: 2318292103189087537
+    second: attacking_28
+  - first:
+      213: 4713041177264522019
+    second: attacking_29
+  - first:
+      213: -121503988449043250
+    second: attacking_30
+  - first:
+      213: 5528599872092712182
+    second: attacking_31
+  - first:
+      213: 8008425545354379449
+    second: attacking_32
+  - first:
+      213: -1438183835931472094
+    second: attacking_33
+  - first:
+      213: -2496254518155802389
+    second: attacking_34
+  - first:
+      213: 3307319911965273722
+    second: attacking_35
+  - first:
+      213: -8044920602872342657
+    second: attacking_36
+  - first:
+      213: 6958942139295801881
+    second: attacking_37
+  - first:
+      213: 8881373908034101152
+    second: attacking_38
+  - first:
+      213: -3575351237496939575
+    second: attacking_39
+  - first:
+      213: -5912230596641258676
+    second: attacking_40
+  - first:
+      213: -6025886602729253618
+    second: attacking_41
+  - first:
+      213: 254789931871909809
+    second: attacking_42
+  - first:
+      213: 7839970878944016544
+    second: attacking_43
+  - first:
+      213: -3770037953605458493
+    second: attacking_44
+  - first:
+      213: 579664758324159789
+    second: attacking_45
+  - first:
+      213: 4502212603663546569
+    second: attacking_46
+  - first:
+      213: 2722227749047816567
+    second: attacking_47
+  - first:
+      213: 3290814514404765459
+    second: attacking_48
+  - first:
+      213: 3743779910318570396
+    second: attacking_49
+  - first:
+      213: 2950574965921813594
+    second: attacking_50
+  - first:
+      213: 6049415570010170270
+    second: attacking_51
+  - first:
+      213: -5618984959432741391
+    second: attacking_52
+  - first:
+      213: 5765912974829825053
+    second: attacking_53
+  - first:
+      213: 8958445191826760413
+    second: attacking_54
+  - first:
+      213: -6800260497133787198
+    second: attacking_55
+  - first:
+      213: -2722279911810111892
+    second: attacking_56
+  - first:
+      213: -9049648637540549165
+    second: attacking_57
+  - first:
+      213: 4440251801686749014
+    second: attacking_58
+  - first:
+      213: -3245551002519252700
+    second: attacking_59
+  - first:
+      213: -1690706937113369074
+    second: attacking_60
+  - first:
+      213: -3986537208738592017
+    second: attacking_61
+  - first:
+      213: 8675379278390837545
+    second: attacking_62
+  - first:
+      213: 3387556801667158731
+    second: attacking_63
+  - first:
+      213: 6590307358904628482
+    second: attacking_64
+  - first:
+      213: 2639218673951866366
+    second: attacking_65
+  - first:
+      213: 8427177070473028881
+    second: attacking_66
+  - first:
+      213: -155180211070415509
+    second: attacking_67
+  - first:
+      213: -8754093764696087629
+    second: attacking_68
+  - first:
+      213: 2902598176351595771
+    second: attacking_69
+  - first:
+      213: 1011300615048254221
+    second: attacking_70
+  - first:
+      213: 95984177937951145
+    second: attacking_71
+  - first:
+      213: -4705303457813891908
+    second: attacking_72
+  - first:
+      213: 8633588149422029076
+    second: attacking_73
+  - first:
+      213: -2756086817910180584
+    second: attacking_74
+  - first:
+      213: 2853143968938719052
+    second: attacking_75
+  - first:
+      213: -4498556751145703760
+    second: attacking_76
+  - first:
+      213: 4819588936258814024
+    second: attacking_77
+  - first:
+      213: -5389485576783955686
+    second: attacking_78
+  - first:
+      213: -6604083626528367647
+    second: attacking_79
+  - first:
+      213: 5392302837259771205
+    second: attacking_80
+  - first:
+      213: -7417823084570269053
+    second: attacking_81
+  - first:
+      213: -4070130050212059249
+    second: attacking_82
+  - first:
+      213: -4198454906434602381
+    second: attacking_83
+  - first:
+      213: -1429845610972967161
+    second: attacking_84
+  - first:
+      213: -700104632714960215
+    second: attacking_85
+  - first:
+      213: -6914116116032532041
+    second: attacking_86
+  - first:
+      213: 850317997838789377
+    second: attacking_87
+  - first:
+      213: -4690283666829663694
+    second: attacking_88
+  - first:
+      213: -8930926604295712064
+    second: attacking_0
+  - first:
+      213: 1215315422643560806
+    second: attacking_1
+  - first:
+      213: 3082823127718688360
+    second: attacking_2
+  - first:
+      213: -1444523176270244967
+    second: attacking_3
+  - first:
+      213: 7344395533224256600
+    second: attacking_4
+  - first:
+      213: -3271579383026281961
+    second: attacking_5
+  - first:
+      213: 203263610341731478
+    second: attacking_6
+  - first:
+      213: 3550143556833802586
+    second: attacking_7
+  - first:
+      213: -6881216442797314617
+    second: attacking_8
+  - first:
+      213: -6189001596692582289
+    second: attacking_9
+  - first:
+      213: -7859010584018236071
+    second: attacking_10
+  - first:
+      213: 2849543540570480481
+    second: attacking_11
+  - first:
+      213: -5974584972948951181
+    second: attacking_12
+  - first:
+      213: 8848331592567871800
+    second: attacking_13
+  - first:
+      213: 8494668194301775251
+    second: attacking_14
+  - first:
+      213: 1012266288679521434
+    second: attacking_15
+  - first:
+      213: 2871712789340747685
+    second: attacking_16
+  - first:
+      213: 4441356268928947061
+    second: attacking_17
+  - first:
+      213: -8618685565614448130
+    second: attacking_18
+  - first:
+      213: 6197747510073760950
+    second: attacking_19
+  - first:
+      213: -2593715992078401146
+    second: attacking_20
+  - first:
+      213: 2466680404425842091
+    second: attacking_21
+  - first:
+      213: -9185135908774036589
+    second: attacking_22
+  - first:
+      213: -3798233756209730829
+    second: attacking_23
+  - first:
+      213: -7857006059964824019
+    second: attacking_24
+  - first:
+      213: 1579160262289797886
+    second: attacking_25
+  - first:
+      213: -1919390319687350424
+    second: attacking_26
+  - first:
+      213: -3682144613343982622
+    second: attacking_27
+  - first:
+      213: 1282353448337055209
+    second: attacking_28
+  - first:
+      213: 3151749525045903310
+    second: attacking_29
+  - first:
+      213: -6271440144342577583
+    second: attacking_30
+  - first:
+      213: -973891791764407354
+    second: attacking_31
+  - first:
+      213: -4111627402965051607
+    second: attacking_32
+  - first:
+      213: -5066397766022349843
+    second: attacking_33
+  - first:
+      213: -1812328641707712939
+    second: attacking_34
+  - first:
+      213: -5589047325050534420
+    second: attacking_35
+  - first:
+      213: -2448016744059892171
+    second: attacking_36
+  - first:
+      213: 8644712007688515145
+    second: attacking_37
+  - first:
+      213: 2166103080775938130
+    second: attacking_38
+  - first:
+      213: 7877619925340648614
+    second: attacking_39
+  - first:
+      213: 7466566819617163017
+    second: attacking_40
+  - first:
+      213: -722173109583354392
+    second: attacking_41
+  - first:
+      213: 9206225057139240523
+    second: attacking_42
+  - first:
+      213: 8439376874069911334
+    second: attacking_43
+  - first:
+      213: -5623888399922564865
+    second: attacking_44
+  - first:
+      213: -8966138889635994480
+    second: attacking_45
+  - first:
+      213: -5448676464927159156
+    second: attacking_46
+  - first:
+      213: -617090626887694805
+    second: attacking_47
+  - first:
+      213: -2538907395056178702
+    second: attacking_48
+  - first:
+      213: 7756338801381689194
+    second: attacking_49
+  - first:
+      213: -155025961557013513
+    second: attacking_50
+  - first:
+      213: -8328291905261772997
+    second: attacking_51
+  - first:
+      213: -5241251302638641087
+    second: attacking_52
+  - first:
+      213: -6337464242444056028
+    second: attacking_53
+  - first:
+      213: -8100513039533658752
+    second: attacking_54
+  - first:
+      213: 374629726582305125
+    second: attacking_55
+  - first:
+      213: 6640525091089670415
+    second: attacking_56
+  - first:
+      213: -8962227045509123074
+    second: attacking_57
+  - first:
+      213: 6787276277251765458
+    second: attacking_58
+  - first:
+      213: 2592838539292654988
+    second: attacking_59
+  - first:
+      213: 9198802345032683503
+    second: attacking_60
+  - first:
+      213: 7361523506969554404
+    second: attacking_61
+  - first:
+      213: -642437377815163147
+    second: attacking_62
+  - first:
+      213: -8099301392484354477
+    second: attacking_63
+  - first:
+      213: -725153437933926075
+    second: attacking_64
+  - first:
+      213: -341820013641945806
+    second: attacking_65
+  - first:
+      213: -3800270116040218477
+    second: attacking_66
+  - first:
+      213: -3504207353082063841
+    second: attacking_67
+  - first:
+      213: 2944916920536444862
+    second: attacking_68
+  - first:
+      213: 3318534932117469472
+    second: attacking_69
+  - first:
+      213: 5135653742707764736
+    second: attacking_70
+  - first:
+      213: -6346115554478176552
+    second: attacking_71
+  - first:
+      213: 36565449417644346
+    second: attacking_72
+  - first:
+      213: 1167580030338235116
+    second: attacking_73
+  - first:
+      213: -2955416778608803243
+    second: attacking_74
+  - first:
+      213: -4995920240996047438
+    second: attacking_75
+  - first:
+      213: -2345860184578048823
+    second: attacking_76
+  - first:
+      213: -7333315071738878356
+    second: attacking_77
+  - first:
+      213: 3998673789309764627
+    second: attacking_78
+  - first:
+      213: 6761551755848873685
+    second: attacking_79
+  - first:
+      213: 5137581336331632250
+    second: attacking_80
+  - first:
+      213: -5912879247270297009
+    second: attacking_81
+  - first:
+      213: 4831200785796455349
+    second: attacking_82
+  - first:
+      213: -7942347432527385665
+    second: attacking_83
+  - first:
+      213: 4972808532992451723
+    second: attacking_84
+  - first:
+      213: 6504288212600432808
+    second: attacking_85
+  - first:
+      213: 5256599168512460129
+    second: attacking_86
+  - first:
+      213: -6938766354275866757
+    second: attacking_87
+  - first:
+      213: -218447665658181957
+    second: attacking_88
+  - first:
+      213: 5971490726481072423
+    second: attacking_89
+  - first:
+      213: 3372116432085497213
+    second: attacking_90
+  - first:
+      213: -8219066341918839734
+    second: attacking_91
+  - first:
+      213: 2949945236122420881
+    second: attacking_92
+  - first:
+      213: 2833007918808089221
+    second: attacking_93
+  - first:
+      213: -5151668409020708848
+    second: attacking_94
+  - first:
+      213: -3310902048155371577
+    second: attacking_95
+  - first:
+      213: 5527596155659497210
+    second: attacking_96
+  - first:
+      213: -1557431514792310038
+    second: attacking_97
+  - first:
+      213: -2451816841767697017
+    second: attacking_98
+  - first:
+      213: 6864221045514535085
+    second: attacking_99
+  - first:
+      213: -3840900109212541087
+    second: attacking_100
+  - first:
+      213: -7222220500769526762
+    second: attacking_101
+  - first:
+      213: 5289018498019040518
+    second: attacking_102
+  - first:
+      213: 611997908726905620
+    second: attacking_103
+  - first:
+      213: 4224053243167666820
+    second: attacking_104
+  - first:
+      213: -8596189065582411819
+    second: attacking_105
+  - first:
+      213: 6971445276160967108
+    second: attacking_106
+  - first:
+      213: 2765503546681778143
+    second: attacking_107
+  - first:
+      213: -6662370552652917094
+    second: attacking_108
+  - first:
+      213: 8042073069702745340
+    second: attacking_109
+  - first:
+      213: -1730199816824024774
+    second: attacking_110
+  - first:
+      213: -1020622795425634365
+    second: attacking_111
+  - first:
+      213: -1460187114126211888
+    second: attacking_112
+  - first:
+      213: 2775889418080740284
+    second: attacking_113
+  - first:
+      213: 4273112163339128040
+    second: attacking_114
+  - first:
+      213: -5246540862178720465
+    second: attacking_115
+  - first:
+      213: -6538197666966006840
+    second: attacking_116
+  - first:
+      213: -5780856910032792981
+    second: attacking_117
+  - first:
+      213: 6903973409882249257
+    second: attacking_118
+  - first:
+      213: 368426011591729286
+    second: attacking_119
+  - first:
+      213: -7793073506494040101
+    second: attacking_120
+  - first:
+      213: -4025683062066360921
+    second: attacking_121
+  - first:
+      213: 5619998301873285382
+    second: attacking_122
+  - first:
+      213: 7594883691304361117
+    second: attacking_123
+  - first:
+      213: 3374153783495870136
+    second: attacking_124
+  - first:
+      213: 4196298262236157185
+    second: attacking_125
+  - first:
+      213: 9122081831027658518
+    second: attacking_126
+  - first:
+      213: -7230961678470819979
+    second: attacking_127
+  - first:
+      213: -2524863405388581969
+    second: attacking_128
+  - first:
+      213: 2445129341821510508
+    second: attacking_129
+  - first:
+      213: -6017812063396046006
+    second: attacking_130
+  - first:
+      213: 6415228015984689093
+    second: attacking_131
+  - first:
+      213: -509541788986782622
+    second: attacking_132
+  - first:
+      213: -1001729517666158473
+    second: attacking_133
+  - first:
+      213: 1577303815082666704
+    second: attacking_134
+  - first:
+      213: 7555028618640345730
+    second: attacking_135
+  - first:
+      213: 3478550812477002156
+    second: attacking_136
+  - first:
+      213: -8760115490648854482
+    second: attacking_137
+  - first:
+      213: -6529002069856225842
+    second: attacking_138
+  - first:
+      213: 4418956621371628143
+    second: attacking_139
+  - first:
+      213: 500921387081865070
+    second: attacking_140
+  - first:
+      213: 9199717063830911907
+    second: attacking_141
+  - first:
+      213: -2076411026789420538
+    second: attacking_142
+  - first:
+      213: -267440747296727630
+    second: attacking_143
+  - first:
+      213: 4311350725180619972
+    second: attacking_144
+  - first:
+      213: -6785602148171640688
+    second: attacking_145
+  - first:
+      213: 7407216230525348890
+    second: attacking_146
+  - first:
+      213: -4261688592444604657
+    second: attacking_147
+  - first:
+      213: -203920762925664168
+    second: attacking_148
+  - first:
+      213: -1631582586214601521
+    second: attacking_149
+  - first:
+      213: 422752178191979468
+    second: attacking_150
+  - first:
+      213: -5469395469651606086
+    second: attacking_151
+  - first:
+      213: -2209068971600644512
+    second: attacking_152
+  - first:
+      213: 6257067869951275267
+    second: attacking_153
+  - first:
+      213: -4107576003617575147
+    second: attacking_154
+  - first:
+      213: 2691168162167113667
+    second: attacking_155
+  - first:
+      213: 2289231184497290741
+    second: attacking_156
+  - first:
+      213: -4050267077822402422
+    second: attacking_157
+  - first:
+      213: -2204902099127519175
+    second: attacking_158
+  - first:
+      213: 6691081581589834779
+    second: attacking_159
+  - first:
+      213: -4085890731065152823
+    second: attacking_160
+  - first:
+      213: -3460574205670942025
+    second: attacking_161
+  - first:
+      213: -533395204706810869
+    second: attacking_162
+  - first:
+      213: -1560292606042042611
+    second: attacking_163
+  - first:
+      213: 3838919544431257425
+    second: attacking_164
+  - first:
+      213: 1689128841756432549
+    second: attacking_165
+  - first:
+      213: 4163244983980966512
+    second: attacking_166
+  - first:
+      213: 445068020229826166
+    second: attacking_167
+  - first:
+      213: -2760097188028929311
+    second: attacking_168
+  - first:
+      213: 2796548146254050647
+    second: attacking_169
+  - first:
+      213: 1393704442503265149
+    second: attacking_170
+  - first:
+      213: 4275169121109877699
+    second: attacking_171
+  - first:
+      213: -1095354605942700457
+    second: attacking_172
+  - first:
+      213: -4220092248427702205
+    second: attacking_173
+  - first:
+      213: -7010039329328864333
+    second: attacking_174
+  - first:
+      213: 5067920617997434218
+    second: attacking_175
+  - first:
+      213: -2166067399048550633
+    second: attacking_176
+  - first:
+      213: 2409533640871014335
+    second: attacking_177
+  - first:
+      213: -5923791952977347706
+    second: attacking_178
+  - first:
+      213: 4477559955809193232
+    second: attacking_179
+  - first:
+      213: 6356527651559827104
+    second: attacking_180
+  - first:
+      213: 1964412704266918725
+    second: attacking_181
+  - first:
+      213: 6455125982210599873
+    second: attacking_182
+  - first:
+      213: -5130483085540564258
+    second: attacking_183
+  - first:
+      213: -7552563785711115585
+    second: attacking_184
+  - first:
+      213: 2140056723623107897
+    second: attacking_185
+  - first:
+      213: -2033177902675620296
+    second: attacking_186
+  - first:
+      213: 7885950937716903375
+    second: attacking_187
+  - first:
+      213: 4108290808720644935
+    second: attacking_188
+  - first:
+      213: 5401110366307006432
+    second: attacking_189
+  - first:
+      213: -27391120877925047
+    second: attacking_190
+  - first:
+      213: 4764019327875393636
+    second: attacking_191
+  - first:
+      213: -8226773609904978406
+    second: attacking_192
+  - first:
+      213: -4343714859908085447
+    second: attacking_193
+  - first:
+      213: 6743130727073876913
+    second: attacking_194
+  - first:
+      213: -7201026227548806169
+    second: attacking_195
+  - first:
+      213: 3184834928375867009
+    second: attacking_196
+  - first:
+      213: -4955054003925719600
+    second: attacking_197
+  - first:
+      213: -8334408925324360716
+    second: attacking_198
+  - first:
+      213: -6582910509062342312
+    second: attacking_199
+  - first:
+      213: -7710610770592449391
+    second: attacking_200
+  - first:
+      213: -1684755991961361488
+    second: attacking_201
+  - first:
+      213: 8284852600243384620
+    second: attacking_202
+  - first:
+      213: 6517736530229971907
+    second: attacking_203
+  - first:
+      213: -4425490618596268727
+    second: attacking_204
+  - first:
+      213: 3537985207608057898
+    second: attacking_205
+  - first:
+      213: -2115780295524859806
+    second: attacking_206
+  - first:
+      213: -6730525348641571191
+    second: attacking_207
+  - first:
+      213: 3056308512740121950
+    second: attacking_208
+  - first:
+      213: 6181418606221878354
+    second: attacking_209
+  - first:
+      213: 5897226679624730846
+    second: attacking_210
+  - first:
+      213: 7207737331270968833
+    second: attacking_211
+  - first:
+      213: 8027650140785709572
+    second: attacking_212
+  - first:
+      213: -8205045683110590159
+    second: attacking_213
+  - first:
+      213: -7290647018523724398
+    second: attacking_214
+  - first:
+      213: -2449438503812271923
+    second: attacking_215
+  - first:
+      213: -8597696739845148356
+    second: attacking_216
+  - first:
+      213: -8959083363735201643
+    second: attacking_217
+  - first:
+      213: -5173788779080608383
+    second: attacking_218
+  - first:
+      213: 3222001544875277087
+    second: attacking_219
+  - first:
+      213: -7011761957286612313
+    second: attacking_220
+  - first:
+      213: 3711390752840645323
+    second: attacking_221
+  - first:
+      213: -46157789820739834
+    second: attacking_222
+  - first:
+      213: -5436667914115215866
+    second: attacking_223
+  - first:
+      213: 5914361514084595224
+    second: attacking_224
+  - first:
+      213: 68982639549133237
+    second: attacking_225
+  - first:
+      213: 7120539965401635052
+    second: attacking_226
+  - first:
+      213: 6433287225083328953
+    second: attacking_227
+  - first:
+      213: 5537078457820015004
+    second: attacking_228
+  - first:
+      213: -6789395185494201260
+    second: attacking_229
+  - first:
+      213: -6306522785907078573
+    second: attacking_230
+  - first:
+      213: -5885798592634286642
+    second: attacking_231
+  - first:
+      213: -8205107347963127123
+    second: attacking_232
+  - first:
+      213: 5556621158740990849
+    second: attacking_233
+  - first:
+      213: 5767470434425333450
+    second: attacking_234
+  - first:
+      213: 4715308735380178077
+    second: attacking_235
+  - first:
+      213: -6702376344723334693
+    second: attacking_236
+  - first:
+      213: 7543613999348084677
+    second: attacking_237
+  - first:
+      213: -1327370326582382238
+    second: attacking_238
+  - first:
+      213: -8056201295082574992
+    second: attacking_239
+  - first:
+      213: 6481019093134430500
+    second: attacking_240
+  - first:
+      213: -831209144527483677
+    second: attacking_241
+  - first:
+      213: -5364337134759350154
+    second: attacking_242
+  - first:
+      213: -1715051724882805112
+    second: attacking_243
+  - first:
+      213: -3786879638437823935
+    second: attacking_244
+  - first:
+      213: -3548267756049659334
+    second: attacking_245
+  - first:
+      213: -7115129083104726983
+    second: attacking_246
+  - first:
+      213: -4434938886768443035
+    second: attacking_247
+  - first:
+      213: 2484841793339662693
+    second: attacking_248
+  - first:
+      213: -8469768756855793765
+    second: attacking_249
+  - first:
+      213: 278833882222286774
+    second: attacking_250
+  - first:
+      213: -3762254423912279736
+    second: attacking_251
+  - first:
+      213: -7157750428851083653
+    second: attacking_252
+  - first:
+      213: 1933593819420209481
+    second: attacking_253
+  - first:
+      213: 2647830342105582691
+    second: attacking_254
+  - first:
+      213: 6482209220570418165
+    second: attacking_255
+  - first:
+      213: 5625448768325453762
+    second: attacking_256
+  - first:
+      213: -6492434019983209381
+    second: attacking_257
+  - first:
+      213: -3753132768766902990
+    second: attacking_258
+  - first:
+      213: -5078589241857438708
+    second: attacking_259
+  - first:
+      213: 6167674453244374203
+    second: attacking_260
+  - first:
+      213: 4930110948581978867
+    second: attacking_261
+  - first:
+      213: 5548665820431378095
+    second: attacking_262
+  - first:
+      213: -3466574652655474714
+    second: attacking_263
+  - first:
+      213: -2212461417572714504
+    second: attacking_264
+  - first:
+      213: 2863198755435765502
+    second: attacking_265
+  - first:
+      213: -1340151358502283685
+    second: attacking_266
+  - first:
+      213: 6454682269820821868
+    second: attacking_267
+  - first:
+      213: -5999657626347743533
+    second: attacking_268
+  - first:
+      213: 207320632848123560
+    second: attacking_269
+  - first:
+      213: 3253912801329574987
+    second: attacking_270
+  - first:
+      213: 9154308747750757402
+    second: attacking_271
+  - first:
+      213: -7593151781909249626
+    second: attacking_272
+  - first:
+      213: -1618412226285671376
+    second: attacking_273
+  - first:
+      213: -132611936284874537
+    second: attacking_274
+  - first:
+      213: 5860113935338063428
+    second: attacking_275
+  - first:
+      213: -4542994347556427297
+    second: attacking_276
+  - first:
+      213: -7690085464692557180
+    second: attacking_277
+  - first:
+      213: 7684030343153046031
+    second: attacking_278
+  - first:
+      213: 8372396167860139996
+    second: attacking_279
+  - first:
+      213: -2447456611917778006
+    second: attacking_280
+  - first:
+      213: -3576325583764138793
+    second: attacking_281
+  - first:
+      213: -3521759179712406785
+    second: attacking_282
+  - first:
+      213: 3616447977877691996
+    second: attacking_283
+  - first:
+      213: 4450716919691120282
+    second: attacking_284
+  - first:
+      213: -1681111226868552903
+    second: attacking_285
+  - first:
+      213: 474791778497923238
+    second: attacking_286
+  - first:
+      213: -4635614997578718221
+    second: attacking_287
+  - first:
+      213: -5957265319098942187
+    second: attacking_288
+  - first:
+      213: 2913574934571554256
+    second: attacking_289
+  - first:
+      213: 276364645053165051
+    second: attacking_290
+  - first:
+      213: -3894623868417585728
+    second: attacking_291
+  - first:
+      213: -4153776179144932117
+    second: attacking_292
+  - first:
+      213: -8482183325190203995
+    second: attacking_293
+  - first:
+      213: -5709939765053901908
+    second: attacking_294
+  - first:
+      213: 7629037130081868577
+    second: attacking_295
+  - first:
+      213: -3148178580062274123
+    second: attacking_296
+  - first:
+      213: -8429640555844646436
+    second: attacking_297
+  - first:
+      213: 8461498487215294772
+    second: attacking_298
+  - first:
+      213: 8784965390594238723
+    second: attacking_299
+  - first:
+      213: -5041014795559416595
+    second: attacking_300
+  - first:
+      213: -1210711585121361107
+    second: attacking_301
+  - first:
+      213: -2073554350321490185
+    second: attacking_302
+  - first:
+      213: 2595335172928969689
+    second: attacking_303
+  - first:
+      213: 6813382145353982497
+    second: attacking_304
+  - first:
+      213: 4650255960543923964
+    second: attacking_305
+  - first:
+      213: 8479974219237568986
+    second: attacking_306
+  - first:
+      213: -1127884842070535929
+    second: attacking_307
+  - first:
+      213: -6423561160091234105
+    second: attacking_308
+  - first:
+      213: -8938083570295556602
+    second: attacking_309
+  - first:
+      213: 3277974864895950902
+    second: attacking_310
+  - first:
+      213: -3009479341884125138
+    second: attacking_311
+  - first:
+      213: 5168130255535610044
+    second: attacking_312
+  - first:
+      213: -1216884337840105990
+    second: attacking_313
+  - first:
+      213: 2362958906345185479
+    second: attacking_314
+  - first:
+      213: -5523296017238237368
+    second: attacking_315
+  - first:
+      213: -7098831332597280938
+    second: attacking_316
+  - first:
+      213: 5870164102389449177
+    second: attacking_317
+  - first:
+      213: 1530662182977234225
+    second: attacking_318
+  - first:
+      213: -5424164595919990984
+    second: attacking_319
+  - first:
+      213: -8827277020860887764
+    second: attacking_320
+  - first:
+      213: -2242737557914875994
+    second: attacking_321
+  - first:
+      213: -1155380333046244095
+    second: attacking_322
+  - first:
+      213: 7725960557750462898
+    second: attacking_323
+  - first:
+      213: -2684517682780049019
+    second: attacking_324
+  - first:
+      213: -2845537346776592110
+    second: attacking_325
+  - first:
+      213: -2051497809603327518
+    second: attacking_326
+  - first:
+      213: -6985643112613272704
+    second: attacking_327
+  - first:
+      213: -1255449798887626606
+    second: attacking_328
+  - first:
+      213: -5030521462889931992
+    second: attacking_329
+  - first:
+      213: 992601683687982294
+    second: attacking_330
+  - first:
+      213: 1601560540470946382
+    second: attacking_331
+  - first:
+      213: -782364659772325058
+    second: attacking_332
+  - first:
+      213: 3170093102318583290
+    second: attacking_333
+  - first:
+      213: 7311348143784868605
+    second: attacking_334
+  - first:
+      213: 5254528227024478910
+    second: attacking_335
+  - first:
+      213: 5725007573577943146
+    second: attacking_336
+  - first:
+      213: 1525833023200681872
+    second: attacking_337
+  - first:
+      213: 6712091961687080226
+    second: attacking_338
+  - first:
+      213: -3038801524543109577
+    second: attacking_339
+  - first:
+      213: 3612518840728288149
+    second: attacking_340
+  - first:
+      213: -7427310036652839478
+    second: attacking_341
+  - first:
+      213: 3721250252662961784
+    second: attacking_342
+  - first:
+      213: 2358889793091489690
+    second: attacking_343
+  - first:
+      213: 2030063201948747583
+    second: attacking_344
+  - first:
+      213: 8132147829498721983
+    second: attacking_345
+  - first:
+      213: 1925658488748207476
+    second: attacking_346
+  - first:
+      213: -3475590051143978713
+    second: attacking_347
+  - first:
+      213: -6263458443713325863
+    second: attacking_348
+  - first:
+      213: 1112042561073208353
+    second: attacking_349
+  - first:
+      213: 8553717313221776873
+    second: attacking_350
+  - first:
+      213: -1427091277057540884
+    second: attacking_351
+  - first:
+      213: -4184263480149558022
+    second: attacking_352
+  - first:
+      213: 3008882083984033409
+    second: attacking_353
+  - first:
+      213: 2206041717918931514
+    second: attacking_354
+  - first:
+      213: 6967389125988690147
+    second: attacking_355
+  - first:
+      213: 3375704471592762259
+    second: attacking_356
+  - first:
+      213: 8263684274578387330
+    second: attacking_357
+  - first:
+      213: -6078390439075149283
+    second: attacking_358
+  - first:
+      213: -6033255849721779934
+    second: attacking_359
+  - first:
+      213: 4076892918509268963
+    second: attacking_360
+  - first:
+      213: -5239307602925887432
+    second: attacking_361
+  - first:
+      213: -5889415775878703722
+    second: attacking_362
+  - first:
+      213: 3775894803189447314
+    second: attacking_363
+  - first:
+      213: -6871434400399589485
+    second: attacking_364
+  - first:
+      213: -2303427570003806929
+    second: attacking_365
+  - first:
+      213: -7548537071754399502
+    second: attacking_366
+  - first:
+      213: 3523745779781279174
+    second: attacking_367
+  - first:
+      213: 8621146232307684545
+    second: attacking_368
+  - first:
+      213: 7848000275570413107
+    second: attacking_369
+  - first:
+      213: -5898294996441040035
+    second: attacking_370
+  - first:
+      213: -958316802683513861
+    second: attacking_371
+  - first:
+      213: -6328259680574519546
+    second: attacking_372
+  - first:
+      213: 6632087824174949601
+    second: attacking_373
+  - first:
+      213: 8564955661304617593
+    second: attacking_374
+  - first:
+      213: 2893077145601960930
+    second: attacking_375
+  - first:
+      213: -7844246943002702423
+    second: attacking_376
+  - first:
+      213: 3274737956841344447
+    second: attacking_377
+  - first:
+      213: -677829834829860247
+    second: attacking_378
+  - first:
+      213: 5022492199292110936
+    second: attacking_379
+  - first:
+      213: 7421992636027291674
+    second: attacking_380
+  - first:
+      213: -739962019695949398
+    second: attacking_381
+  - first:
+      213: -3179978179733975285
+    second: attacking_382
+  - first:
+      213: 8434413148454971146
+    second: attacking_383
+  - first:
+      213: -1783211647258849656
+    second: attacking_384
+  - first:
+      213: 1473630215832603105
+    second: attacking_385
+  - first:
+      213: 5216428850403894669
+    second: attacking_386
+  - first:
+      213: -3875910892008540140
+    second: attacking_387
+  - first:
+      213: -5414055567725807908
+    second: attacking_388
+  - first:
+      213: -9199646364385478965
+    second: attacking_389
+  - first:
+      213: -7808232923895553236
+    second: attacking_390
+  - first:
+      213: 2145219062677013481
+    second: attacking_391
+  - first:
+      213: 8044488579705963693
+    second: attacking_392
+  - first:
+      213: 8428467545738620350
+    second: attacking_393
+  - first:
+      213: 1387037184767206189
+    second: attacking_394
+  - first:
+      213: 3261288508184521819
+    second: attacking_395
+  - first:
+      213: -3992707524576067220
+    second: attacking_396
+  - first:
+      213: 8720270973444882248
+    second: attacking_397
+  - first:
+      213: 8668532263871654823
+    second: attacking_398
+  - first:
+      213: 3616941940553560203
+    second: attacking_399
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 133.3333
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9973569fc29ce200800000000000000
+      internalID: 210704702857509274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1649dc665e10a760800000000000000
+      internalID: 7467001538722481690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb42456c4f37180800000000000000
+      internalID: -9118675687842726345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795f62755749e2c0800000000000000
+      internalID: -4401908728460256907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c30ca9fd5b7cd0800000000000000
+      internalID: -2559348636315826340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671501e0a5cef290800000000000000
+      internalID: -7854623405326919840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982d7bfe45b3d2d0800000000000000
+      internalID: -3255058754827376486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85376e391a3f14240800000000000000
+      internalID: 4774364955286074200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa55f930326268030800000000000000
+      internalID: 3496524092526253487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63debfa5d07367d20800000000000000
+      internalID: 3275866309459176758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3561124400274250800000000000000
+      internalID: 5928742637116941630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8360ed09539cc140800000000000000
+      internalID: 4741326518408471436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6fcfd5991d7bd0800000000000000
+      internalID: -2630918475818767111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0008eaaf4704c450800000000000000
+      internalID: 6108015033372377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47244e97ac207250800000000000000
+      internalID: 5940297006928111438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3194a2d0770ab2d10800000000000000
+      internalID: 2101950084280895763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271ff512ad490b720800000000000000
+      internalID: 2859949427963982194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5f6b72f31966d0800000000000000
+      internalID: -2996842144864444464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c81f19fa9d401560800000000000000
+      internalID: 7282405925457959108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6282fbcfb62350800000000000000
+      internalID: 5991687236930923490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad6c722aa9e0560800000000000000
+      internalID: 7281927668747393681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88f491e0750fe60800000000000000
+      internalID: 7993985056648431839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57aafbff2ab7870800000000000000
+      internalID: 8681711926002742744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a64d3ec302a5c00800000000000000
+      internalID: 890059322251569793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9f8c4d23b7e2f0800000000000000
+      internalID: -943588589771449334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc7bf7978bed740800000000000000
+      internalID: 5178779453495954647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b21d9d05846f7d0800000000000000
+      internalID: -2885038999195276475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341d7cf597346240800000000000000
+      internalID: 4784009821500019770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cd20926a3c2020800000000000000
+      internalID: 2318292103189087537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32304aedaf5186140800000000000000
+      internalID: 4713041177264522019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc93b924c4505ef0800000000000000
+      internalID: -121503988449043250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2b59ba4889bc40800000000000000
+      internalID: 5528599872092712182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b003016a94a32f60800000000000000
+      internalID: 8008425545354379449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8899cb6b8a0ce0800000000000000
+      internalID: -1438183835931472094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80c50ddb58b5dd0800000000000000
+      internalID: -2496254518155802389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e244fdfe5f5ed20800000000000000
+      internalID: 3307319911965273722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779293e553ba5090800000000000000
+      internalID: -8044920602872342657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91229317101239060800000000000000
+      internalID: 6958942139295801881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9bc9838af04b70800000000000000
+      internalID: 8881373908034101152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbddb51efcc16ec0800000000000000
+      internalID: -3575351237496939575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c438001c89983fda0800000000000000
+      internalID: -5912230596641258676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e059983bf00cf5ca0800000000000000
+      internalID: -6025886602729253618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73295d712398300800000000000000
+      internalID: 254789931871909809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87dd8f9fb2dcc60800000000000000
+      internalID: 7839970878944016544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52b99a4722eabc0800000000000000
+      internalID: -3770037953605458493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2569b8c6026b0800800000000000000
+      internalID: 579664758324159789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f6a062821b7e30800000000000000
+      internalID: 4502212603663546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771d4bbf6bb47c520800000000000000
+      internalID: 2722227749047816567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fabc88d525bad20800000000000000
+      internalID: 3290814514404765459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b38c73ef394f330800000000000000
+      internalID: 3743779910318570396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541ee67c4c82f820800000000000000
+      internalID: 2950574965921813594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936c25e867d3f350800000000000000
+      internalID: 6049415570010170270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdafb633fa5502b0800000000000000
+      internalID: -5618984959432741391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2c8e2d43a40050800000000000000
+      internalID: 5765912974829825053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e3a6207ac25c70800000000000000
+      internalID: 8958445191826760413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c728307b1f90a1a0800000000000000
+      internalID: -6800260497133787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66606de7d4883ad0800000000000000
+      internalID: -2722279911810111892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3c41e280396280800000000000000
+      internalID: -9049648637540549165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa3d8fc71fe9d30800000000000000
+      internalID: 4440251801686749014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215d621f8c75f2d0800000000000000
+      internalID: -3245551002519252700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a11a9ff66988e0800000000000000
+      internalID: -1690706937113369074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea424db789fca8c0800000000000000
+      internalID: -3986537208738592017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92145445d73256870800000000000000
+      internalID: 8675379278390837545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc254db86f4030f20800000000000000
+      internalID: 3387556801667158731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205372040a9757b50800000000000000
+      internalID: 6590307358904628482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7a79966360a420800000000000000
+      internalID: 2639218673951866366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115acd085e853f470800000000000000
+      internalID: 8427177070473028881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4af29b60b8ddf0800000000000000
+      internalID: -155180211070415509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e3d82a16338680800000000000000
+      internalID: -8754093764696087629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc222ba9a9184820800000000000000
+      internalID: 2902598176351595771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d5112d8cd80e00800000000000000
+      internalID: 1011300615048254221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ac0ee911055100800000000000000
+      internalID: 95984177937951145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f5945f6763beb0800000000000000
+      internalID: -4705303457813891908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419725fddaaa0d770800000000000000
+      internalID: 8633588149422029076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b35834a960c9d0800000000000000
+      internalID: -2756086817910180584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47f3a9b257689720800000000000000
+      internalID: 2853143968938719052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6660e187ae191c0800000000000000
+      internalID: -4498556751145703760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400c1d2a9e92e240800000000000000
+      internalID: 4819588936258814024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1973b13c63b435b0800000000000000
+      internalID: -5389485576783955686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9dcd7ee49954a0800000000000000
+      internalID: -6604083626528367647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d13306cde45da40800000000000000
+      internalID: 5392302837259771205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a2f75b4399e0990800000000000000
+      internalID: -7417823084570269053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a777a84ef387c0800000000000000
+      internalID: -4070130050212059249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3878c1871cb5c0800000000000000
+      internalID: -4198454906434602381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0e421efa282ce0800000000000000
+      internalID: -1429845610972967161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26b6dbb8ab846f0800000000000000
+      internalID: -700104632714960215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d31866002c00a0800000000000000
+      internalID: -6914116116032532041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6d4fb6bfeccb00800000000000000
+      internalID: 850317997838789377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attacking_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322dceead3c8eeb0800000000000000
+      internalID: -4690283666829663694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

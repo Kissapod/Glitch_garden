@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: 6a7e764ea2d0a7248a4ee47b62bdd78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7050966088938682186
+    second: Grow attack_0
+  - first:
+      213: 3007692013267214909
+    second: Grow attack_1
+  - first:
+      213: 988939883297443837
+    second: Grow attack_2
+  - first:
+      213: -6481746403717524512
+    second: Grow attack_3
+  - first:
+      213: -7096595558605635392
+    second: Grow attack_4
+  - first:
+      213: -8037844762742338346
+    second: Grow attack_5
+  - first:
+      213: -7069945986319507228
+    second: Grow attack_6
+  - first:
+      213: -1393042619997536814
+    second: Grow attack_7
+  - first:
+      213: -3124825516255552961
+    second: Grow attack_8
+  - first:
+      213: -3336882794176677664
+    second: Grow attack_9
+  - first:
+      213: -8047460827945474225
+    second: Grow attack_10
+  - first:
+      213: -6169946631442247658
+    second: Grow attack_11
+  - first:
+      213: -7576381459890318643
+    second: Grow attack_12
+  - first:
+      213: -8572231025843507371
+    second: Grow attack_13
+  - first:
+      213: -7927474333962729619
+    second: Grow attack_14
+  - first:
+      213: 6651835273117926910
+    second: Grow attack_15
+  - first:
+      213: -3797413053715124265
+    second: Grow attack_16
+  - first:
+      213: -8251592395426467616
+    second: Grow attack_17
+  - first:
+      213: -3118360937373072707
+    second: Grow attack_18
+  - first:
+      213: -2158247861337780939
+    second: Grow attack_19
+  - first:
+      213: -482146584029252414
+    second: Grow attack_20
+  - first:
+      213: 6720696724738366303
+    second: Grow attack_21
+  - first:
+      213: -2135466558069384677
+    second: Grow attack_22
+  - first:
+      213: 3671739262296578187
+    second: Grow attack_23
+  - first:
+      213: 3060434221206881699
+    second: Grow attack_24
+  - first:
+      213: 5483686807281670109
+    second: Grow attack_25
+  - first:
+      213: 8099851285097898189
+    second: Grow attack_26
+  - first:
+      213: -3788554184618744275
+    second: Grow attack_27
+  - first:
+      213: -6353435347048104045
+    second: Grow attack_28
+  - first:
+      213: 3925061513237435295
+    second: Grow attack_29
+  - first:
+      213: -7507105270121643051
+    second: Grow attack_30
+  - first:
+      213: 9154245930263704623
+    second: Grow attack_31
+  - first:
+      213: 6940610866012097425
+    second: Grow attack_32
+  - first:
+      213: 5696266033506322749
+    second: Grow attack_33
+  - first:
+      213: -7526687803730882789
+    second: Grow attack_34
+  - first:
+      213: -3993840024335093906
+    second: Grow attack_35
+  - first:
+      213: 5290793403243569241
+    second: Grow attack_36
+  - first:
+      213: 6784991496905224887
+    second: Grow attack_37
+  - first:
+      213: 2822883385568805143
+    second: Grow attack_38
+  - first:
+      213: -7725918407442852100
+    second: Grow attack_39
+  - first:
+      213: 6203798901723710352
+    second: Grow attack_40
+  - first:
+      213: -5877234738962267625
+    second: Grow attack_41
+  - first:
+      213: 1967445711313921694
+    second: Grow attack_42
+  - first:
+      213: -6321110380627964553
+    second: Grow attack_43
+  - first:
+      213: -7809577007834925313
+    second: Grow attack_44
+  - first:
+      213: 8033558048733734036
+    second: Grow attack_45
+  - first:
+      213: -4426971595657989156
+    second: Grow attack_46
+  - first:
+      213: 8555243520485333457
+    second: Grow attack_47
+  - first:
+      213: -3288402308633051150
+    second: Grow attack_48
+  - first:
+      213: 7246902385707138709
+    second: Grow attack_49
+  - first:
+      213: 5756814326888920179
+    second: Grow attack_50
+  - first:
+      213: 4436464522172072849
+    second: Grow attack_51
+  - first:
+      213: 5374405435703998085
+    second: Grow attack_52
+  - first:
+      213: 8366370304780125393
+    second: Grow attack_53
+  - first:
+      213: -3704896470585920730
+    second: Grow attack_54
+  - first:
+      213: 6069549529902877012
+    second: Grow attack_55
+  - first:
+      213: -3949459538012988422
+    second: Grow attack_56
+  - first:
+      213: -3877654307403482244
+    second: Grow attack_57
+  - first:
+      213: 5446993855175800071
+    second: Grow attack_58
+  - first:
+      213: -2171879682004191897
+    second: Grow attack_59
+  - first:
+      213: -6929725005148534428
+    second: Grow attack_60
+  - first:
+      213: 1452359441638308811
+    second: Grow attack_61
+  - first:
+      213: -5313242975538515914
+    second: Grow attack_62
+  - first:
+      213: 4138647353552596533
+    second: Grow attack_63
+  - first:
+      213: 1063346713844547227
+    second: Grow attack_64
+  - first:
+      213: 8641549530608188878
+    second: Grow attack_65
+  - first:
+      213: 7719967365047219975
+    second: Grow attack_66
+  - first:
+      213: 1439056243911693102
+    second: Grow attack_67
+  - first:
+      213: -2204110985415843073
+    second: Grow attack_68
+  - first:
+      213: 3657418732643091801
+    second: Grow attack_69
+  - first:
+      213: -1350792440898889655
+    second: Grow attack_70
+  - first:
+      213: -7051389478793117100
+    second: Grow attack_71
+  - first:
+      213: 7913201617800118901
+    second: Grow attack_72
+  - first:
+      213: 8199050994699334419
+    second: Grow attack_73
+  - first:
+      213: 3931082328450922526
+    second: Grow attack_74
+  - first:
+      213: -7668876391208559595
+    second: Grow attack_75
+  - first:
+      213: 4680653239967463693
+    second: Grow attack_76
+  - first:
+      213: 1652410856442861741
+    second: Grow attack_77
+  - first:
+      213: 5848098962655165813
+    second: Grow attack_78
+  - first:
+      213: -8383267593964274997
+    second: Grow attack_79
+  - first:
+      213: -539038772596568353
+    second: Grow attack_80
+  - first:
+      213: 6276909929443299253
+    second: Grow attack_81
+  - first:
+      213: 71588180106121814
+    second: Grow attack_82
+  - first:
+      213: 8069731199805480567
+    second: Grow attack_83
+  - first:
+      213: 124408249531313541
+    second: Grow attack_84
+  - first:
+      213: 8216291244492109615
+    second: Grow attack_85
+  - first:
+      213: -8461092875558259927
+    second: Grow attack_86
+  - first:
+      213: 2944645829229726202
+    second: Grow attack_87
+  - first:
+      213: -7309545506984083949
+    second: Grow attack_88
+  - first:
+      213: 7026080840696892586
+    second: Grow attack_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grow attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f38edc401ad160800000000000000
+      internalID: 7050966088938682186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32629c53f77db920800000000000000
+      internalID: 3007692013267214909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0920959b69bd00800000000000000
+      internalID: 988939883297443837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35042dcf53c06a0800000000000000
+      internalID: -6481746403717524512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c042b650f3d38d90800000000000000
+      internalID: -7096595558605635392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc420d46c6d37090800000000000000
+      internalID: -8037844762742338346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e02a38659182ed90800000000000000
+      internalID: -7069945986319507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd31162e1beaace0800000000000000
+      internalID: -1393042619997536814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad28ebfb362a4d0800000000000000
+      internalID: -3124825516255552961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e87cfb37c201b1d0800000000000000
+      internalID: -3336882794176677664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f476076a30da15090800000000000000
+      internalID: -8047460827945474225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61054cd7a32ff5aa0800000000000000
+      internalID: -6169946631442247658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d16024394bd690800000000000000
+      internalID: -7576381459890318643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe304bc41590980800000000000000
+      internalID: -8572231025843507371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6700264814fbf190800000000000000
+      internalID: -7927474333962729619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58b9e10f0105c50800000000000000
+      internalID: 6651835273117926910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe0eb72f0ec4bc0800000000000000
+      internalID: -3797413053715124265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07a476f647c7d80800000000000000
+      internalID: -8251592395426467616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db28c6ecf3b59b4d0800000000000000
+      internalID: -3118360937373072707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d07b7410d5c02e0800000000000000
+      internalID: -2158247861337780939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b4418c321f49f0800000000000000
+      internalID: -482146584029252414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b59293016b44d50800000000000000
+      internalID: 6720696724738366303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5c88ca7c4d52e0800000000000000
+      internalID: -2135466558069384677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88da05c763a4f230800000000000000
+      internalID: 3671739262296578187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54c7595b8d87a20800000000000000
+      internalID: 3060434221206881699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7158fe818f91c40800000000000000
+      internalID: 5483686807281670109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc060c534d3786070800000000000000
+      internalID: 8099851285097898189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ea7daa0a5c6bc0800000000000000
+      internalID: -3788554184618744275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f79cbb63014d7a0800000000000000
+      internalID: -6353435347048104045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93131286ae987630800000000000000
+      internalID: 3925061513237435295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3cfeaf78761d790800000000000000
+      internalID: -7507105270121643051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24feeb1c2a6a0f70800000000000000
+      internalID: 9154245930263704623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b0ed84fc0025060800000000000000
+      internalID: 6940610866012097425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39844107c33d0f40800000000000000
+      internalID: 5696266033506322749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0b531255db8790800000000000000
+      internalID: -7526687803730882789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe4cb78a70398c0800000000000000
+      internalID: -3993840024335093906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502054819cac6940800000000000000
+      internalID: 5290793403243569241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f41961d1292e50800000000000000
+      internalID: 6784991496905224887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114e2f9b75ec2720800000000000000
+      internalID: 2822883385568805143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf697b0642608c490800000000000000
+      internalID: -7725918407442852100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09343336b32581650800000000000000
+      internalID: 6203798901723710352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_41
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128192d42edf6ea0800000000000000
+      internalID: -5877234738962267625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966bb15375cd4b10800000000000000
+      internalID: 1967445711313921694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_43
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc2a87997e648a0800000000000000
+      internalID: -6321110380627964553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f0f9961fce9390800000000000000
+      internalID: -7809577007834925313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49421415b7eec7f60800000000000000
+      internalID: 8033558048733734036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bf02f9cc3092c0800000000000000
+      internalID: -4426971595657989156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99d7d77a45ab670800000000000000
+      internalID: 8555243520485333457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3a53e58f3d52d0800000000000000
+      internalID: -3288402308633051150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3106f25b229460800000000000000
+      internalID: 7246902385707138709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f710212054ef40800000000000000
+      internalID: 5756814326888920179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19380be3afc719d30800000000000000
+      internalID: 4436464522172072849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b01ad449b59a40800000000000000
+      internalID: 5374405435703998085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4cbcb17715b1470800000000000000
+      internalID: 8366370304780125393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_54
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b0251a40959cc0800000000000000
+      internalID: -3704896470585920730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_55
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459008cb32f5b3450800000000000000
+      internalID: 6069549529902877012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb15fda973b039c0800000000000000
+      internalID: -3949459538012988422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb37db3fdcf2ac0800000000000000
+      internalID: -3877654307403482244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_58
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7053d774d0c979b40800000000000000
+      internalID: 5446993855175800071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657043bfeeebd1e0800000000000000
+      internalID: -2171879682004191897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469caf4b2dba4df90800000000000000
+      internalID: -6929725005148534428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb390d9731d72410800000000000000
+      internalID: 1452359441638308811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ffad1aa19346b0800000000000000
+      internalID: -5313242975538515914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eec1f27dd6f6930800000000000000
+      internalID: 4138647353552596533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e78cfc334c1ce00800000000000000
+      internalID: 1063346713844547227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd38d06383fce770800000000000000
+      internalID: 8641549530608188878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077f379a65d22b60800000000000000
+      internalID: 7719967365047219975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231a26870e88f310800000000000000
+      internalID: 1439056243911693102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a0c49cbc6961e0800000000000000
+      internalID: -2204110985415843073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_69
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550d02a5f2c1c230800000000000000
+      internalID: 3657418732643091801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_70
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94850fa8e65014de0800000000000000
+      internalID: -1350792440898889655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520c9ff0ae642e90800000000000000
+      internalID: -7051389478793117100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_72
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c50902f651dd60800000000000000
+      internalID: 7913201617800118901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_73
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313fd527071e8c170800000000000000
+      internalID: 8199050994699334419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f12acc820e8630800000000000000
+      internalID: 3931082328450922526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c52abbd8da29590800000000000000
+      internalID: -7668876391208559595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ba05925505f040800000000000000
+      internalID: 4680653239967463693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da896494bea8ee610800000000000000
+      internalID: 1652410856442861741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_78
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d3460a50f982150800000000000000
+      internalID: 5848098962655165813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca37bc2a86a8ab80800000000000000
+      internalID: -8383267593964274997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde083f9713f488f0800000000000000
+      internalID: -539038772596568353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf079703501c1750800000000000000
+      internalID: 6276909929443299253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652975d02155ef000800000000000000
+      internalID: 71588180106121814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eda4d55c17dff60800000000000000
+      internalID: 8069731199805480567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_84
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2170d4acf9b100800000000000000
+      internalID: 124408249531313541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ba17ea51260270800000000000000
+      internalID: 8216291244492109615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_86
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f2c4cbd8249a80800000000000000
+      internalID: -8461092875558259927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_87
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c290c7cb7dd820800000000000000
+      internalID: 2944645829229726202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_88
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e39aac6174f8a90800000000000000
+      internalID: -7309545506984083949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grow attack_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8ae08c47a18160800000000000000
+      internalID: 7026080840696892586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

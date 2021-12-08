@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 68f3189536a62a54fb8550c343998729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2801871954701985745
+    second: shovel__x1_tool_animation_png_1354832696_0
+  - first:
+      213: 8679336953040539165
+    second: shovel__x1_tool_animation_png_1354832696_1
+  - first:
+      213: 3578003123795799971
+    second: shovel__x1_tool_animation_png_1354832696_2
+  - first:
+      213: 6505608285243080971
+    second: shovel__x1_tool_animation_png_1354832696_3
+  - first:
+      213: 2796133417937463670
+    second: shovel__x1_tool_animation_png_1354832696_4
+  - first:
+      213: -6541708640310081376
+    second: shovel__x1_tool_animation_png_1354832696_5
+  - first:
+      213: 5919434379336957145
+    second: shovel__x1_tool_animation_png_1354832696_6
+  - first:
+      213: -5778764034893424498
+    second: shovel__x1_tool_animation_png_1354832696_7
+  - first:
+      213: -6322338110766841287
+    second: shovel__x1_tool_animation_png_1354832696_8
+  - first:
+      213: -7101370997075272027
+    second: shovel__x1_tool_animation_png_1354832696_9
+  - first:
+      213: 380155268475358457
+    second: shovel__x1_tool_animation_png_1354832696_10
+  - first:
+      213: 8116037974852501696
+    second: shovel__x1_tool_animation_png_1354832696_11
+  - first:
+      213: 4321439914715460181
+    second: shovel__x1_tool_animation_png_1354832696_12
+  - first:
+      213: 4634383780813009743
+    second: shovel__x1_tool_animation_png_1354832696_13
+  - first:
+      213: -7507158208026896043
+    second: shovel__x1_tool_animation_png_1354832696_14
+  - first:
+      213: 5930854077749420907
+    second: shovel__x1_tool_animation_png_1354832696_15
+  - first:
+      213: -7161457236740461677
+    second: shovel__x1_tool_animation_png_1354832696_16
+  - first:
+      213: -1594875895451121941
+    second: shovel__x1_tool_animation_png_1354832696_17
+  - first:
+      213: -1516802725967884208
+    second: shovel__x1_tool_animation_png_1354832696_18
+  - first:
+      213: 6939576050735431223
+    second: shovel__x1_tool_animation_png_1354832696_19
+  - first:
+      213: -11047048326722065
+    second: shovel__x1_tool_animation_png_1354832696_20
+  - first:
+      213: -1489313273378842697
+    second: shovel__x1_tool_animation_png_1354832696_21
+  - first:
+      213: -5200853211382768994
+    second: shovel__x1_tool_animation_png_1354832696_22
+  - first:
+      213: -7031292203624648304
+    second: shovel__x1_tool_animation_png_1354832696_23
+  - first:
+      213: 7992648849904683981
+    second: shovel__x1_tool_animation_png_1354832696_24
+  - first:
+      213: 7822901812474937059
+    second: shovel__x1_tool_animation_png_1354832696_25
+  - first:
+      213: -6588966154752016418
+    second: shovel__x1_tool_animation_png_1354832696_26
+  - first:
+      213: -4200575743605266638
+    second: shovel__x1_tool_animation_png_1354832696_27
+  - first:
+      213: -3415043002784332476
+    second: shovel__x1_tool_animation_png_1354832696_28
+  - first:
+      213: -5102751651284728557
+    second: shovel__x1_tool_animation_png_1354832696_29
+  - first:
+      213: 5215933724737433656
+    second: shovel__x1_tool_animation_png_1354832696_30
+  - first:
+      213: 4656836979605185929
+    second: shovel__x1_tool_animation_png_1354832696_31
+  - first:
+      213: 3047913923972630761
+    second: shovel__x1_tool_animation_png_1354832696_32
+  - first:
+      213: -1175971546532565007
+    second: shovel__x1_tool_animation_png_1354832696_33
+  - first:
+      213: -6659634690123769709
+    second: shovel__x1_tool_animation_png_1354832696_34
+  - first:
+      213: 3355034444557553090
+    second: shovel__x1_tool_animation_png_1354832696_35
+  - first:
+      213: 4120733263033485499
+    second: shovel__x1_tool_animation_png_1354832696_36
+  - first:
+      213: 8873105408824013960
+    second: shovel__x1_tool_animation_png_1354832696_37
+  - first:
+      213: 6572983664103460653
+    second: shovel__x1_tool_animation_png_1354832696_38
+  - first:
+      213: 8195717596824111609
+    second: shovel__x1_tool_animation_png_1354832696_39
+  - first:
+      213: 5587330573422032472
+    second: shovel__x1_tool_animation_png_1354832696_40
+  - first:
+      213: -3328238166919945382
+    second: shovel__x1_tool_animation_png_1354832696_41
+  - first:
+      213: 5637843945539242650
+    second: shovel__x1_tool_animation_png_1354832696_42
+  - first:
+      213: -1952155113823067575
+    second: shovel__x1_tool_animation_png_1354832696_43
+  - first:
+      213: -288695823668973241
+    second: shovel__x1_tool_animation_png_1354832696_44
+  - first:
+      213: 3876380218779079486
+    second: shovel__x1_tool_animation_png_1354832696_45
+  - first:
+      213: 8943772006820204776
+    second: shovel__x1_tool_animation_png_1354832696_46
+  - first:
+      213: 2910269258042880297
+    second: shovel__x1_tool_animation_png_1354832696_47
+  - first:
+      213: -5712898462676844533
+    second: shovel__x1_tool_animation_png_1354832696_48
+  - first:
+      213: -4993033986996173873
+    second: shovel__x1_tool_animation_png_1354832696_49
+  - first:
+      213: 3475272475687804835
+    second: shovel__x1_tool_animation_png_1354832696_50
+  - first:
+      213: 1363968174089792041
+    second: shovel__x1_tool_animation_png_1354832696_51
+  - first:
+      213: -6019746901917338634
+    second: shovel__x1_tool_animation_png_1354832696_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72426a2bf32e620800000000000000
+      internalID: 2801871954701985745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e07e349f2337870800000000000000
+      internalID: 8679336953040539165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af261f42ee97a130800000000000000
+      internalID: 3578003123795799971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0180c96440984a50800000000000000
+      internalID: 6505608285243080971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e2c0778cddc620800000000000000
+      internalID: 2796133417937463670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c63ea6ae2735a0800000000000000
+      internalID: -6541708640310081376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc3d9b943e062250800000000000000
+      internalID: 5919434379336957145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88df5b3ab4bdcfa0800000000000000
+      internalID: -5778764034893424498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93204d54cfa8248a0800000000000000
+      internalID: -6322338110766841287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae111de3bcd27d90800000000000000
+      internalID: -7101370997075272027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc87f8d335964500800000000000000
+      internalID: 380155268475358457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00aaa9985f1a070800000000000000
+      internalID: 8116037974852501696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5523fcad4b6d8fb30800000000000000
+      internalID: 4321439914715460181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 246
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f030ae73a05040800000000000000
+      internalID: 4634383780813009743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55916e9626731d790800000000000000
+      internalID: -7507158208026896043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636ee65c50ae4250800000000000000
+      internalID: 5930854077749420907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2fe116946d9c90800000000000000
+      internalID: -7161457236740461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68dc6b2dcddd9e0800000000000000
+      internalID: -1594875895451121941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050175405fb33fae0800000000000000
+      internalID: -1516802725967884208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb4e396a35e4060800000000000000
+      internalID: 6939576050735431223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed4ba0a4c0c8dff0800000000000000
+      internalID: -11047048326722065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7daf4f775e45be0800000000000000
+      internalID: -1489313273378842697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a949e3f8bd2d7b0800000000000000
+      internalID: -5200853211382768994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091baf28ef4db6e90800000000000000
+      internalID: -7031292203624648304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc00938c79bee60800000000000000
+      internalID: 7992648849904683981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_25
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef35d30c7809c60800000000000000
+      internalID: 7822901812474937059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3fec213a4f84a0800000000000000
+      internalID: -6588966154752016418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_27
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 164
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372946ed9e84b5c0800000000000000
+      internalID: -4200575743605266638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454b5e8b745b90d0800000000000000
+      internalID: -3415043002784332476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c220a8626f29b0800000000000000
+      internalID: -5102751651284728557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83074f26618b26840800000000000000
+      internalID: 5215933724737433656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985254a5f8860a040800000000000000
+      internalID: 4656836979605185929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80b58b09d5c4a20800000000000000
+      internalID: 3047913923972630761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa5f6eb1c1eafe0800000000000000
+      internalID: -1175971546532565007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398dd4998893493a0800000000000000
+      internalID: -6659634690123769709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8d053d0a7f8e20800000000000000
+      internalID: 3355034444557553090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84f35f119cf2930800000000000000
+      internalID: 4120733263033485499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_37
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8847d8b8b5a932b70800000000000000
+      internalID: 8873105408824013960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f055d31dde73b50800000000000000
+      internalID: 6572983664103460653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_39
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98e164bb90db170800000000000000
+      internalID: 8195717596824111609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ff77bd8f2a8d40800000000000000
+      internalID: 5587330573422032472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_41
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 82
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e6dc5509bfc1d0800000000000000
+      internalID: -3328238166919945382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a04f8a235ad3e40800000000000000
+      internalID: 5637843945539242650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422d16544d88e4e0800000000000000
+      internalID: -1952155113823067575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741721e8da85efbf0800000000000000
+      internalID: -288695823668973241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339da2654babc530800000000000000
+      internalID: 3876380218779079486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d99a0149ae1c70800000000000000
+      internalID: 8943772006820204776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b26e887a536820800000000000000
+      internalID: 2910269258042880297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00854ecd15b7b0b0800000000000000
+      internalID: -5712898462676844533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc304a50b0e25bab0800000000000000
+      internalID: -4993033986996173873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af501367e5aa3030800000000000000
+      internalID: 3475272475687804835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_51
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6f85e3d9cde210800000000000000
+      internalID: 1363968174089792041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel__x1_tool_animation_png_1354832696_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f375713610957ca0800000000000000
+      internalID: -6019746901917338634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
